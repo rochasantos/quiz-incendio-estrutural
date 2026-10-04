@@ -158,3 +158,29 @@ async function carregarInicial() {
 }
 carregarInicial();
 
+async function prepararOffline() {
+  const status = document.querySelector('#offline-status');
+  if (!('serviceWorker' in navigator) || !window.isSecureContext || location.protocol === 'file:') {
+    status.textContent = 'Para salvar o quiz offline, acesse pelo link HTTPS do site.';
+    return;
+  }
+  status.textContent = 'Preparando acesso offline…';
+  try {
+    const registro = await navigator.serviceWorker.register('./sw.js', {updateViaCache: 'none'});
+    function observar(worker) {
+      if (!worker) return;
+      worker.addEventListener('statechange', () => {
+        if (worker.state === 'redundant') status.textContent = 'Não foi possível salvar a atualização offline. Tente novamente com internet.';
+        if (worker.state === 'installed' && registro.active) status.textContent = 'Atualização salva. Feche as abas do quiz e abra novamente para usá-la.';
+      });
+    }
+    observar(registro.installing);
+    registro.addEventListener('updatefound', () => observar(registro.installing));
+    await navigator.serviceWorker.ready;
+    status.textContent = registro.waiting ? 'Atualização salva. Feche as abas do quiz e abra novamente para usá-la.' : 'Quiz e questões salvos para usar sem internet.';
+  } catch {
+    status.textContent = 'Não foi possível preparar o acesso offline. Tente novamente com internet.';
+  }
+}
+prepararOffline();
+
