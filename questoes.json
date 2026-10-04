@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "tema": "Demonstração",
+    "dificuldade": "fácil",
+    "enunciado": "Quanto é 2 + 2?",
+    "alternativas": {"a": "3", "b": "4", "c": "5"},
+    "resposta_correta": "b",
+    "explicacao": "Somando duas unidades a outras duas, obtemos quatro."
+  },
+  {
+    "id": 2,
+    "tema": "Demonstração",
+    "dificuldade": "fácil",
+    "enunciado": "Qual destas palavras representa uma cor?",
+    "alternativas": {"a": "Mesa", "b": "Livro", "c": "Azul", "d": "Porta"},
+    "resposta_correta": "c",
+    "explicacao": "Azul é uma cor; as demais palavras representam objetos."
+  },
+  {
+    "id": 3,
+    "tema": "Demonstração",
+    "dificuldade": "fácil",
+    "enunciado": "O número 10 é maior que o número 5.",
+    "alternativas": {"a": "Verdadeiro", "b": "Falso"},
+    "resposta_correta": "a",
+    "explicacao": "10 é maior que 5, portanto a afirmação é verdadeira."
+  },
+  {
+    "id": 4,
+    "tema": "Demonstração",
+    "dificuldade": "fácil",
+    "enunciado": "Um triângulo tem quatro lados.",
+    "alternativas": {"a": "Verdadeiro", "b": "Falso"},
+    "resposta_correta": "b",
+    "explicacao": "Um triângulo tem três lados."
+  }
+]

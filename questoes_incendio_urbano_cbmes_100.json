@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual situação corresponde ao conceito de incêndio adotado pelo manual?",
+    "alternativas": {
+      "a": "Uma combustão que produz fumaça densa, ainda que permaneça sob controle.",
+      "b": "Uma combustão que produz danos, ainda que permaneça sob controle.",
+      "c": "Uma combustão que se desenvolve fora de controle."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O critério que distingue incêndio de fogo controlado é a perda de controle sobre a combustão, e não a presença de chama ou o confinamento. Referência: manual, capítulo 1, p. 7 do PDF."
+  },
+  {
+    "id": 2,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Na distinção entre triângulo e tetraedro do fogo, qual interpretação está de acordo com o manual?",
+    "alternativas": {
+      "a": "O triângulo representa a combustão com chamas; o tetraedro representa exclusivamente a combustão em brasas.",
+      "b": "O triângulo representa os requisitos para iniciar a combustão; o tetraedro acrescenta a reação em cadeia entre seus elementos.",
+      "c": "O triângulo representa os combustíveis sólidos; o tetraedro acrescenta os combustíveis líquidos e gasosos."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Calor, combustível e comburente são requisitos para o início da combustão. A reação em cadeia integra o tetraedro e explica sua continuidade. Referência: manual, capítulo 1, p. 8-9 do PDF."
+  },
+  {
+    "id": 3,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Uma fogueira continua queimando depois que o fósforo usado para acendê-la é retirado. Qual processo explica essa continuidade?",
+    "alternativas": {
+      "a": "O calor da própria combustão permite liberar mais vapores combustíveis, mantendo a reação em cadeia.",
+      "b": "A temperatura da madeira se mantém sem nova liberação de calor, desde que haja ar disponível.",
+      "c": "O combustível mantém a energia inicial do fósforo sem precisar realimentar o aquecimento."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A reação em cadeia torna a combustão autossustentável: a queima fornece calor para liberar novas partículas combustíveis que continuam reagindo com o oxigênio. Referência: manual, capítulo 1, p. 8, 25-26 do PDF."
+  },
+  {
+    "id": 4,
+    "tema": "Calor e transformações dos combustíveis",
+    "dificuldade": "moderada",
+    "enunciado": "Ao comparar a termólise da madeira com a vaporização de um combustível líquido, qual diferença é destacada pelo manual?",
+    "alternativas": {
+      "a": "A termólise altera a composição química do sólido; na vaporização, as moléculas liberadas mantêm a composição do líquido.",
+      "b": "Ambos os processos alteram a composição química, mas somente a vaporização exige oxigênio.",
+      "c": "A termólise é apenas mudança física; a vaporização decompõe o líquido em novas substâncias."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Na termólise, o calor decompõe moléculas do sólido em substâncias menores. Na vaporização do líquido, ocorre mudança de estado sem essa decomposição. Referência: manual, capítulo 1, p. 13, 21 do PDF."
+  },
+  {
+    "id": 5,
+    "tema": "Propagação do calor",
+    "dificuldade": "moderada",
+    "enunciado": "Uma barra metálica tem uma extremidade aquecida, e a outra aquece sem deslocamento do material. Qual mecanismo predomina?",
+    "alternativas": {
+      "a": "Convecção, pela transmissão de energia sem transporte de matéria ao longo do sólido.",
+      "b": "Irradiação, pela transferência entre moléculas vizinhas através da continuidade da barra.",
+      "c": "Condução, pela transferência de energia entre moléculas ao longo do sólido."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A condução transfere calor de molécula a molécula no sólido. Entre corpos distintos, o manual destaca a necessidade de contato. Referência: manual, capítulo 1, p. 15 do PDF."
+  },
+  {
+    "id": 6,
+    "tema": "Propagação do calor",
+    "dificuldade": "moderada",
+    "enunciado": "Gases aquecidos percorrem uma caixa de escadas e levam calor a pavimentos superiores. Qual explicação corresponde ao mecanismo descrito?",
+    "alternativas": {
+      "a": "Convecção: os gases aquecidos se deslocam e transportam energia para outros locais.",
+      "b": "Condução: o calor sobe porque os gases permanecem imóveis em contato com a escada.",
+      "c": "Irradiação: a transferência depende do deslocamento vertical da massa de fumaça."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Na convecção, o calor é transportado pelo movimento dos fluidos. Escadas e poços de elevadores podem funcionar como caminhos para gases quentes. Referência: manual, capítulo 1, p. 15-16 do PDF."
+  },
+  {
+    "id": 7,
+    "tema": "Propagação do calor",
+    "dificuldade": "moderada",
+    "enunciado": "Na relação simplificada apresentada pelo manual, dobrar a distância de uma fonte de calor altera como a intensidade da irradiação recebida?",
+    "alternativas": {
+      "a": "Reduz a intensidade para aproximadamente um oitavo do valor anterior.",
+      "b": "Reduz a intensidade para aproximadamente metade do valor anterior.",
+      "c": "Reduz a intensidade para aproximadamente um quarto do valor anterior."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual apresenta a irradiação como inversamente proporcional ao quadrado da distância. Ao dobrar a distância, o denominador é multiplicado por quatro. Referência: manual, capítulo 1, p. 17 do PDF."
+  },
+  {
+    "id": 8,
+    "tema": "Calor e estruturas",
+    "dificuldade": "moderada",
+    "enunciado": "Por que aplicar água em um elemento estrutural superaquecido pode produzir danos, conforme a explicação do manual?",
+    "alternativas": {
+      "a": "A contração rápida e desigual pode provocar rupturas internas e enfraquecimento.",
+      "b": "A dilatação rápida e uniforme causada pela água pode aumentar o comprimento do elemento.",
+      "c": "A contração ocorre de modo uniforme e restaura a resistência que o material possuía antes do incêndio."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Variações bruscas de temperatura podem produzir contração desigual e danos internos, contribuindo para o colapso de elementos já comprometidos. Referência: manual, capítulo 1, p. 12 do PDF."
+  },
+  {
+    "id": 9,
+    "tema": "Combustíveis sólidos",
+    "dificuldade": "moderada",
+    "enunciado": "Considerando a mesma massa de madeira, por que sua fragmentação em partículas menores tende a acelerar a combustão?",
+    "alternativas": {
+      "a": "Aumenta a relação superfície-massa, facilitando aquecimento, liberação de vapores e contato com o oxigênio.",
+      "b": "Mantém a superfície total inalterada, mas reduz a quantidade de comburente necessária até dispensar o ar.",
+      "c": "Reduz a relação superfície-massa e retém o calor por mais tempo no interior de cada fragmento."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A fragmentação aumenta a superfície disponível em relação à massa. O manual associa esse aumento à maior facilidade e velocidade de queima. Referência: manual, capítulo 1, p. 19-20 do PDF."
+  },
+  {
+    "id": 10,
+    "tema": "Combustíveis sólidos",
+    "dificuldade": "moderada",
+    "enunciado": "Duas placas iguais de madeira, uma horizontal e outra vertical, são expostas a condições semelhantes de ignição. Por que a placa vertical tende a apresentar propagação mais rápida?",
+    "alternativas": {
+      "a": "Os gases ascendentes afastam-se mais rapidamente da placa vertical e deixam de aquecer as partes superiores.",
+      "b": "A radiação deixa de atuar na placa horizontal, enquanto atua exclusivamente na placa vertical.",
+      "c": "Os gases aquecidos ascendentes passam pelo combustível ainda não queimado, aquecendo-o antecipadamente."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Na posição vertical, o material ainda não atingido fica no caminho dos gases quentes que sobem, favorecendo aquecimento e liberação de vapores. Referência: manual, capítulo 1, p. 20 do PDF."
+  },
+  {
+    "id": 11,
+    "tema": "Combustíveis líquidos",
+    "dificuldade": "moderada",
+    "enunciado": "Qual propriedade favorece o emprego da diluição com água em certos combustíveis líquidos?",
+    "alternativas": {
+      "a": "A densidade menor que a da água, que permite diluir o combustível mesmo sem misturá-lo.",
+      "b": "A solubilidade em água, como ocorre com álcool e acetona.",
+      "c": "A baixa solubilidade em água, que facilita reduzir a concentração do combustível em toda a mistura."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A diluição depende da capacidade de o combustível se misturar com a água. O manual diferencia solventes polares solúveis de hidrocarbonetos pouco solúveis. Referência: manual, capítulo 1, p. 22 do PDF."
+  },
+  {
+    "id": 12,
+    "tema": "Misturas inflamáveis",
+    "dificuldade": "moderada",
+    "enunciado": "Uma mistura de gás combustível com ar está acima do limite superior de explosividade. Qual interpretação é adequada?",
+    "alternativas": {
+      "a": "Está rica demais em combustível para queimar naquela condição; a entrada de ar pode levá-la à faixa inflamável.",
+      "b": "Está pobre demais em combustível para queimar; acrescentar ar aumenta sua concentração de combustível.",
+      "c": "Está na condição de menor concentração capaz de queimar; qualquer retirada de combustível intensifica a combustão."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O LSE delimita a concentração máxima da faixa inflamável. Uma mistura acima dele pode tornar-se inflamável ao ser diluída com ar. Referência: manual, capítulo 1, p. 23, 66 do PDF."
+  },
+  {
+    "id": 13,
+    "tema": "Pontos de temperatura",
+    "dificuldade": "moderada",
+    "enunciado": "Um combustível libera vapores que se inflamam ao contato com uma fonte externa, mas a queima cessa quando essa fonte é retirada. Qual ponto foi atingido?",
+    "alternativas": {
+      "a": "Ponto de combustão.",
+      "b": "Ponto de autoignição.",
+      "c": "Ponto de fulgor."
+    },
+    "resposta_correta": "c",
+    "explicacao": "No ponto de fulgor, os vapores se inflamam com auxílio externo, mas sua liberação ainda não é suficiente para manter a queima após a retirada da fonte. Referência: manual, capítulo 1, p. 27 do PDF."
+  },
+  {
+    "id": 14,
+    "tema": "Pontos de temperatura",
+    "dificuldade": "moderada",
+    "enunciado": "Qual condição diferencia o ponto de combustão do ponto de fulgor?",
+    "alternativas": {
+      "a": "No ponto de combustão, a ignição ocorre sem qualquer fonte externa; no ponto de fulgor, ela precisa dessa fonte.",
+      "b": "No ponto de combustão, os vapores queimam apenas enquanto a fonte externa permanece presente.",
+      "c": "No ponto de combustão, a queima continua após a retirada da fonte externa que a iniciou."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O ponto de combustão corresponde à temperatura em que a liberação de vapores permite sustentar a reação após a retirada da fonte externa. A ignição sem fonte externa caracteriza a autoignição. Referência: manual, capítulo 1, p. 27-28 do PDF."
+  },
+  {
+    "id": 15,
+    "tema": "Tipos de combustão",
+    "dificuldade": "moderada",
+    "enunciado": "Qual situação representa combustão espontânea na explicação do manual?",
+    "alternativas": {
+      "a": "O combustível atinge a autoignição por aquecimento externo contínuo, dispensando apenas o contato direto com chama.",
+      "b": "O material atinge o ponto de fulgor e mantém a combustão depois de retirada a fonte externa que o aqueceu.",
+      "c": "Uma reação interna produz calor que se acumula mais rapidamente do que é dissipado, podendo iniciar a queima sem fonte externa."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A combustão espontânea pode resultar do autoaquecimento: a produção de calor supera a dissipação, elevando a temperatura e acelerando a reação. Referência: manual, capítulo 1, p. 30-31 do PDF."
+  },
+  {
+    "id": 16,
+    "tema": "Tipos de chama",
+    "dificuldade": "moderada",
+    "enunciado": "Qual distinção entre chama difusa e chama de pré-mistura é apresentada no manual?",
+    "alternativas": {
+      "a": "Na difusa, combustível e comburente se misturam na zona de queima; na de pré-mistura, misturam-se antes dessa zona.",
+      "b": "Na difusa, apenas sólidos podem queimar; na de pré-mistura, apenas líquidos podem queimar.",
+      "c": "Na difusa, combustível e comburente se misturam antes da zona de queima; na de pré-mistura, misturam-se dentro dela."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A classificação depende do momento em que combustível e comburente se misturam. Velas e fogueiras exemplificam chamas difusas; maçaricos exemplificam chamas de pré-mistura. Referência: manual, capítulo 1, p. 32 do PDF."
+  },
+  {
+    "id": 17,
+    "tema": "Fumaça e produtos da combustão",
+    "dificuldade": "moderada",
+    "enunciado": "Qual conjunto corresponde ao mnemônico QOMIT utilizado no manual?",
+    "alternativas": {
+      "a": "Quente, opaca, móvel, inflamável e tóxica.",
+      "b": "Quente, opaca, imóvel, inflamável e transparente.",
+      "c": "Quente, oxidante, móvel, incombustível e tóxica."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O QOMIT reúne cinco características da fumaça. Além de dificultar a visibilidade e ser tóxica, ela transporta calor, movimenta-se e pode queimar. Referência: manual, capítulo 1, p. 33 do PDF."
+  },
+  {
+    "id": 18,
+    "tema": "Fumaça e produtos da combustão",
+    "dificuldade": "moderada",
+    "enunciado": "Durante o rescaldo, há pouca fumaça visível. Por que essa observação não basta para considerar a atmosfera segura?",
+    "alternativas": {
+      "a": "O CO permanece necessariamente preso à fuligem e desaparece quando ela deixa de ser visível.",
+      "b": "A ventilação que clareia a fumaça já garante a eliminação dos gases de combustão incompleta.",
+      "c": "O monóxido de carbono pode estar presente sem ser percebido pela visão ou pelo olfato."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O CO é incolor e inodoro. A combustão incompleta pode continuar produzindo esse gás mesmo quando há pouca fumaça visível. Referência: manual, capítulo 1, p. 34-35 do PDF."
+  },
+  {
+    "id": 19,
+    "tema": "Métodos de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Fechar uma válvula que alimenta um foco com gás combustível corresponde principalmente a qual método?",
+    "alternativas": {
+      "a": "Abafamento pela retirada do comburente.",
+      "b": "Resfriamento pela redução da energia térmica.",
+      "c": "Controle ou retirada do material combustível."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A interrupção do fornecimento de gás atua sobre o combustível, cortando a alimentação do foco. Não atua diretamente sobre o oxigênio ou a temperatura. Referência: manual, capítulo 2, p. 38 do PDF."
+  },
+  {
+    "id": 20,
+    "tema": "Métodos de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Qual efeito explica a extinção por resfriamento de um combustível sólido comum?",
+    "alternativas": {
+      "a": "A redução da temperatura diminui a liberação de vapores combustíveis e dificulta a continuidade da queima.",
+      "b": "A redução da temperatura apenas apaga a chama superficial, sem interferir na geração de vapores.",
+      "c": "A redução da temperatura impede o contato com o oxigênio, sendo o abafamento o efeito definidor do método."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O resfriamento atua sobre o calor. Ao diminuir a temperatura, reduz a produção de gases ou vapores que alimentam a combustão. Referência: manual, capítulo 2, p. 39 do PDF."
+  },
+  {
+    "id": 21,
+    "tema": "Métodos de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Por que o abafamento baseado apenas na exclusão do ar pode não extinguir certos materiais, como os exemplos citados de pólvora e peróxidos orgânicos?",
+    "alternativas": {
+      "a": "Porque podem disponibilizar oxigênio de sua própria composição, sem depender apenas do oxigênio atmosférico.",
+      "b": "Porque esses materiais não necessitam de combustível para manter a reação.",
+      "c": "Porque o abafamento eleva necessariamente a temperatura de qualquer combustível acima da autoignição."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual ressalva materiais que podem queimar sem depender do oxigênio do ar. Neles, excluir o ar pode não eliminar o comburente disponível. Referência: manual, capítulo 2, p. 39 do PDF."
+  },
+  {
+    "id": 22,
+    "tema": "Métodos de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Na extinção química por quebra da reação em cadeia, qual é a ação característica do agente extintor?",
+    "alternativas": {
+      "a": "Interferir nos radicais livres, reduzindo a continuidade das reações de combustão.",
+      "b": "Absorver calor dos gases, tendo o resfriamento como mecanismo definidor da extinção química.",
+      "c": "Formar uma barreira física ao oxigênio, sem interferir nos radicais envolvidos na combustão."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A extinção química interfere na reação em cadeia, capturando radicais livres antes que participem de etapas seguintes da combustão. Referência: manual, capítulo 2, p. 39-40 do PDF."
+  },
+  {
+    "id": 23,
+    "tema": "Métodos de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "No resfriamento com água, qual relação entre absorção e produção de calor permite dominar o foco?",
+    "alternativas": {
+      "a": "As taxas devem ser iguais durante toda a operação, pois a igualdade garante queda contínua da temperatura.",
+      "b": "A água deve absorver calor em taxa suficiente para superar a taxa de liberação de calor do incêndio.",
+      "c": "Basta aplicar a mesma quantidade total de água, independentemente de sua fragmentação e do ritmo de produção de calor."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual vincula a eficiência do resfriamento à quantidade e à forma de aplicação da água, de modo que a absorção de calor supere a produção do foco. Referência: manual, capítulo 2, p. 39 do PDF."
+  },
+  {
+    "id": 24,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Por que fragmentar a água em pequenas gotas melhora a rapidez do resfriamento?",
+    "alternativas": {
+      "a": "Reduz a área de contato e concentra a absorção de calor em uma única superfície.",
+      "b": "Aumenta o calor específico de cada grama de água, alterando sua composição.",
+      "c": "Aumenta a área total de contato e facilita a vaporização."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A fragmentação aumenta a superfície exposta da água, acelerando a troca de calor e a vaporização. Não altera seu calor específico. Referência: manual, capítulo 3, p. 41-42 do PDF."
+  },
+  {
+    "id": 25,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Segundo os valores do manual, qual etapa absorve mais calor para 1 kg de água inicialmente a 20 °C?",
+    "alternativas": {
+      "a": "Aquecer a água de 20 °C a 100 °C: cerca de 540 kcal, contra 80 kcal para vaporizá-la.",
+      "b": "As duas etapas absorvem a mesma quantidade: aproximadamente 80 kcal cada uma.",
+      "c": "Vaporizar a água a 100 °C: cerca de 540 kcal, contra 80 kcal para aquecê-la de 20 °C a 100 °C."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Com calor específico de 1 cal/g °C, o aquecimento de 1.000 g por 80 °C absorve 80 kcal. A vaporização, com 540 cal/g, absorve 540 kcal. Referência: manual, capítulo 3, p. 41-42 do PDF."
+  },
+  {
+    "id": 26,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Qual alteração explica o maior poder de penetração da chamada água molhada em materiais porosos?",
+    "alternativas": {
+      "a": "A adição de umectante aumenta principalmente a viscosidade, e esse aumento é o mecanismo que define a água molhada.",
+      "b": "A adição de umectante reduz a tensão superficial da água.",
+      "c": "A adição de umectante aumenta a tensão superficial, favorecendo a entrada da água nos poros."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A redução da tensão superficial melhora o espalhamento e a penetração da água, favorecendo o alcance de regiões internas de sólidos porosos. Referência: manual, capítulo 3, p. 42-43 do PDF."
+  },
+  {
+    "id": 27,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Qual combinação de efeitos caracteriza a atuação da espuma sobre líquidos inflamáveis?",
+    "alternativas": {
+      "a": "Quebra da reação em cadeia como ação principal, sendo a cobertura física um efeito sem importância para a extinção.",
+      "b": "Abafamento como ação principal e resfriamento como ação secundária.",
+      "c": "Resfriamento como ação principal e abafamento apenas após a evaporação completa da cobertura."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A espuma forma uma cobertura que separa o combustível do ar. A água presente na espuma também contribui para o resfriamento. Referência: manual, capítulo 3, p. 44 do PDF."
+  },
+  {
+    "id": 28,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Qual característica explica a eficiência do pó ABC em incêndios de sólidos comuns, em comparação com o pó BC?",
+    "alternativas": {
+      "a": "Ao ser aquecido, o pó ABC forma resíduo fundido que adere à superfície do combustível e o isola do comburente.",
+      "b": "Ao ser aquecido, o pó ABC libera água suficiente para garantir o resfriamento interno de qualquer sólido.",
+      "c": "O pó ABC atua apenas durante a suspensão no ar, sem deixar uma camada aderente no combustível."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O pó ABC, à base de fosfato de amônio, pode formar uma camada aderente sobre o combustível, ampliando sua atuação na classe A. Referência: manual, capítulo 3, p. 45 do PDF."
+  },
+  {
+    "id": 29,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Em um incêndio com metal combustível da classe D, qual critério deve orientar a escolha do pó extintor?",
+    "alternativas": {
+      "a": "Sua adequação ao metal específico envolvido, pois a composição necessária pode variar.",
+      "b": "Sua capacidade de cobrir o foco, pois qualquer pó não condutor é adequado a todos os metais combustíveis.",
+      "c": "Sua classificação como ABC, que dispensa verificar o metal por abranger também a classe D."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual enfatiza que os pós especiais para classe D variam conforme o metal. A escolha exige identificar o combustível e o agente apropriado. Referência: manual, capítulo 3, p. 45 do PDF."
+  },
+  {
+    "id": 30,
+    "tema": "Agentes extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Qual combinação de vantagem e risco corresponde ao emprego de CO2 em ambiente fechado?",
+    "alternativas": {
+      "a": "Não deixa resíduos, mas pode reduzir a concentração de oxigênio e produzir risco de asfixia.",
+      "b": "Não deixa resíduos e garante atmosfera respirável, pois substituir o oxigênio não altera a segurança dos ocupantes.",
+      "c": "Deixa uma película isolante duradoura, mas apresenta risco de asfixia somente quando misturado com fumaça."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O CO2 não deixa resíduos e atua principalmente por abafamento. Em espaços fechados, a redução do oxigênio disponível pode tornar a atmosfera perigosa. Referência: manual, capítulo 3, p. 46 do PDF."
+  },
+  {
+    "id": 31,
+    "tema": "Classes de incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Um foco em madeira é apagado na superfície, mas permanecem brasas em seu interior. Qual característica da classe A explica o risco de reignição?",
+    "alternativas": {
+      "a": "A queima só permanece ativa enquanto o material está energizado.",
+      "b": "A queima pode ocorrer tanto na superfície quanto em profundidade.",
+      "c": "A queima ocorre exclusivamente nos vapores livres, sem atingir o corpo do material."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Combustíveis sólidos comuns podem manter combustão interna e deixar brasas. Por isso, extinguir apenas as chamas superficiais pode ser insuficiente. Referência: manual, capítulo 4, p. 48-49 do PDF."
+  },
+  {
+    "id": 32,
+    "tema": "Classes de incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Qual característica diferencia, no manual, a queima de líquidos inflamáveis da queima de sólidos comuns?",
+    "alternativas": {
+      "a": "Nos líquidos da classe B, a profundidade da queima depende exclusivamente da presença de energia elétrica.",
+      "b": "Nos líquidos da classe B, a queima ocorre apenas no fundo do recipiente, produzindo brasas persistentes.",
+      "c": "Nos líquidos da classe B, a queima ocorre na superfície exposta, sem a queima em profundidade típica da classe A."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual caracteriza os incêndios da classe B pela queima superficial, diferentemente dos sólidos comuns, que podem queimar também em profundidade. Referência: manual, capítulo 4, p. 49 do PDF."
+  },
+  {
+    "id": 33,
+    "tema": "Classes de incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Um equipamento elétrico em chamas permanece energizado. Qual condição é decisiva para a seleção do agente extintor?",
+    "alternativas": {
+      "a": "O agente deve proporcionar forte resfriamento, sendo sua condutividade secundária enquanto houver chama.",
+      "b": "O agente pode conduzir corrente desde que sua aplicação deixe poucos resíduos no equipamento.",
+      "c": "O agente não deve conduzir corrente elétrica."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Enquanto o equipamento estiver energizado, há risco elétrico. O manual indica agentes não condutores e alerta para equipamentos que conservam energia após a interrupção do fornecimento. Referência: manual, capítulo 4, p. 49 do PDF."
+  },
+  {
+    "id": 34,
+    "tema": "Classes de incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Um foco envolve magnésio combustível fragmentado. Qual enquadramento e cuidado correspondem ao manual?",
+    "alternativas": {
+      "a": "Classe D, exigindo identificação do agente específico e atenção à reação com agentes comuns que contenham água.",
+      "b": "Classe B, com aplicação de espuma comum porque metais aquecidos podem atingir a fusão.",
+      "c": "Classe A, com preferência por resfriamento com água porque o combustível se apresenta como sólido."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A classe D abrange metais combustíveis. O risco decorre das altas temperaturas e de possíveis reações com agentes extintores inadequados, e não apenas do estado sólido ou da condutividade elétrica. Referência: manual, capítulo 4, p. 50 do PDF."
+  },
+  {
+    "id": 35,
+    "tema": "Desenvolvimento do incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Quais fatores são destacados pelo manual para explicar a diferença de evolução entre um foco ao ar livre e um foco em compartimento?",
+    "alternativas": {
+      "a": "Oferta de oxigênio e feedback radiativo decorrente do confinamento dos gases.",
+      "b": "Oferta de oxigênio e dissipação integral do calor pelo teto, sem retorno radiativo ao combustível.",
+      "c": "Quantidade de combustível e presença de chama, sem influência importante das aberturas do compartimento."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O confinamento afeta a renovação de oxigênio e retém gases quentes que irradiam calor de volta para o ambiente, acelerando o aquecimento dos combustíveis. Referência: manual, capítulo 4, p. 51-52 do PDF."
+  },
+  {
+    "id": 36,
+    "tema": "Desenvolvimento do incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Qual sequência corresponde às fases de desenvolvimento do incêndio em compartimento apresentadas pelo manual?",
+    "alternativas": {
+      "a": "Inicial, decaimento, crescimento e desenvolvimento completo.",
+      "b": "Crescimento, inicial, decaimento e desenvolvimento completo.",
+      "c": "Inicial, crescimento, desenvolvimento completo e decaimento."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual organiza didaticamente a evolução em fase inicial ou incipiente, fase de crescimento, fase de desenvolvimento completo e fase de decaimento. Referência: manual, capítulo 4, p. 52-53 do PDF."
+  },
+  {
+    "id": 37,
+    "tema": "Desenvolvimento do incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Na descrição didática do manual, qual sinal marca a passagem da fase incipiente para a fase de crescimento?",
+    "alternativas": {
+      "a": "As chamas sobem pela coluna de gases e atingem o teto.",
+      "b": "O combustível se esgota e restam somente brasas.",
+      "c": "Todo o combustível do compartimento já está em combustão."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O alcance do teto pelas chamas é apresentado como marco da transição para a fase de crescimento. O envolvimento de todo o combustível caracteriza o desenvolvimento completo. Referência: manual, capítulo 4, p. 54 do PDF."
+  },
+  {
+    "id": 38,
+    "tema": "Desenvolvimento do incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "O que é o plano neutro em um incêndio compartimentado, segundo o manual?",
+    "alternativas": {
+      "a": "A região inferior junto ao foco, onde a pressão é menor e o ar fresco entra para alimentar a queima.",
+      "b": "A região de separação entre a camada superior de gases quentes e a camada inferior de ar mais frio.",
+      "c": "A região de máxima temperatura junto ao teto, onde não existe diferença de pressão entre interior e exterior."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A estratificação dispõe gases mais quentes na parte superior e ar mais frio na parte inferior. O plano neutro delimita a separação entre essas camadas. Referência: manual, capítulo 4, p. 55-56 do PDF."
+  },
+  {
+    "id": 39,
+    "tema": "Desenvolvimento do incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Quando a velocidade de queima passa a depender principalmente do ar que entra pelas aberturas do compartimento, como o foco é classificado?",
+    "alternativas": {
+      "a": "Limitado pela ventilação.",
+      "b": "Extinto por quebra da reação em cadeia.",
+      "c": "Limitado pelo combustível."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Um foco limitado pela ventilação tem seu regime de queima condicionado pela oferta de comburente. A mera presença de portas ou janelas abertas não garante oxigênio suficiente. Referência: manual, capítulo 4, p. 56-57 do PDF."
+  },
+  {
+    "id": 40,
+    "tema": "Comportamento extremo do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual diferença entre rollover e flashover está de acordo com o manual?",
+    "alternativas": {
+      "a": "O rollover envolve a queima da capa térmica; o flashover envolve a ignição generalizada dos combustíveis do compartimento.",
+      "b": "O rollover corresponde ao esgotamento dos sólidos; o flashover corresponde apenas à presença de brasas.",
+      "c": "O rollover envolve todos os combustíveis sólidos; o flashover limita-se a bolsões isolados na fumaça."
+    },
+    "resposta_correta": "a",
+    "explicacao": "No rollover, uma frente de chamas percorre a capa térmica. O calor irradiado pode favorecer o flashover, que marca a transição para o desenvolvimento completo. Referência: manual, capítulo 4, p. 58-59 do PDF."
+  },
+  {
+    "id": 41,
+    "tema": "Comportamento extremo do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que um compartimento com poucas chamas pode continuar acumulando combustível em sua atmosfera?",
+    "alternativas": {
+      "a": "A redução do oxigênio faz os sólidos deixarem automaticamente de liberar vapores, mesmo aquecidos.",
+      "b": "A termólise pode prosseguir com o calor disponível, mesmo quando falta oxigênio para sustentar chamas.",
+      "c": "A ausência de chamas transforma todos os gases presentes em substâncias incombustíveis."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A decomposição térmica depende do calor e pode continuar apesar da redução do oxigênio. Assim, poucas chamas não significam ausência de vapores combustíveis. Referência: manual, capítulo 4, p. 60, 63 do PDF."
+  },
+  {
+    "id": 42,
+    "tema": "Comportamento extremo do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Fumaça escura, densa e turbulenta, acompanhada de chamas surgindo na capa térmica, indica qual risco destacado pelo manual?",
+    "alternativas": {
+      "a": "BLEVE, pela ruptura de um recipiente pressurizado contendo líquido.",
+      "b": "Boil over, pela expansão de água acumulada no fundo de um tanque.",
+      "c": "Flashover, pela possibilidade de generalização rápida da combustão no compartimento."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Fumaça densa e turbulenta, ghost flames e rollover são sinais associados ao risco de flashover. Boil over e BLEVE envolvem mecanismos e recipientes específicos. Referência: manual, capítulo 4, p. 65-66 do PDF."
+  },
+  {
+    "id": 43,
+    "tema": "Comportamento extremo do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um compartimento subventilado apresenta fumaça cáqui em lufadas e ar sendo sugado pelas frestas inferiores. Qual fenômeno pode ser desencadeado pela entrada de oxigênio?",
+    "alternativas": {
+      "a": "Boil over, provocado pela mistura direta entre fumaça e ar frio.",
+      "b": "Backdraft, pela queima rápida e violenta da fumaça combustível aquecida.",
+      "c": "Rollover, definido exclusivamente como resfriamento natural dos gases."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O backdraft está associado à entrada de ar em ambiente com fumaça combustível aquecida e baixa ventilação. Lufadas de fumaça e entrada de ar pelas partes inferiores são sinais de alerta. Referência: manual, capítulo 4, p. 66-67 do PDF."
+  },
+  {
+    "id": 44,
+    "tema": "Comportamento extremo do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que uma fumaça que clareou após permanecer suspensa ainda pode apresentar risco de ignição?",
+    "alternativas": {
+      "a": "Parte da fuligem pode ter se depositado, enquanto gases e vapores combustíveis permanecem na atmosfera.",
+      "b": "A fuligem é a única fração combustível da fumaça, de modo que sua deposição elimina o risco de ignição.",
+      "c": "A fumaça só permanece inflamável enquanto estiver preta, embora possa continuar tóxica depois de clarear."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual alerta que a perda de parte da fuligem pode clarear a fumaça sem eliminar sua inflamabilidade. Uma fonte de calor ainda pode provocar sua ignição. Referência: manual, capítulo 4, p. 69 do PDF."
+  },
+  {
+    "id": 45,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Qual diferença entre carga e capacidade extintora é apresentada no manual?",
+    "alternativas": {
+      "a": "Carga é o poder de extinção ensaiado; capacidade extintora é apenas a massa total do recipiente.",
+      "b": "Carga é a quantidade de agente; capacidade extintora é o poder de extinção determinado em ensaio normalizado.",
+      "c": "Carga é o alcance do jato; capacidade extintora é a pressão indicada no manômetro."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A carga é expressa em litros ou quilogramas de agente. A capacidade extintora resulta de ensaio prático e deve constar no rótulo. Referência: manual, capítulo 5, p. 71 do PDF."
+  },
+  {
+    "id": 46,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "O que caracteriza um extintor de pressão não permanente?",
+    "alternativas": {
+      "a": "O agente e o gás propulsor permanecem juntos e pressurizados antes do acionamento.",
+      "b": "O agente sai somente pela gravidade, sem necessidade de gás ou pressão.",
+      "c": "O gás propulsor fica separado e é liberado para pressurizar o recipiente quando o aparelho é ativado."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Nos extintores a pressurizar, o propulsor está em cartucho separado. A ativação libera o gás e eleva a pressão no recipiente do agente. Referência: manual, capítulo 5, p. 72 do PDF."
+  },
+  {
+    "id": 47,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Por que o manual recomenda testar o extintor ainda no local em que ele foi retirado?",
+    "alternativas": {
+      "a": "Para determinar a classe do incêndio pela aparência da descarga, substituindo a identificação do combustível.",
+      "b": "Para verificar o funcionamento antes de perder tempo levando um aparelho inoperante até o foco.",
+      "c": "Para consumir a pressão inicial e tornar o jato mais seguro, independentemente do funcionamento do aparelho."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Após selecionar o aparelho adequado e retirar o lacre, o teste prévio permite detectar falha antes do deslocamento até o foco. Referência: manual, capítulo 5, p. 76 do PDF."
+  },
+  {
+    "id": 48,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Ao operar um extintor de CO2, onde se deve segurar a mangueira para evitar lesão pelo frio?",
+    "alternativas": {
+      "a": "No difusor, desde que a descarga seja contínua, porque o fluxo de gás impede seu resfriamento.",
+      "b": "No punho ou manopla apropriado, evitando segurar o difusor.",
+      "c": "Na borda do difusor, evitando o punho, porque somente a mangueira apresenta resfriamento intenso."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A expansão do CO2 provoca resfriamento intenso. O manual orienta segurar pelo punho ou manopla para evitar queimaduras por baixa temperatura. Referência: manual, capítulo 5, p. 77 do PDF."
+  },
+  {
+    "id": 49,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Segundo a técnica específica do manual, como deve ser aplicada a descarga de um extintor de PQS?",
+    "alternativas": {
+      "a": "Em jatos curtos, aguardando que a nuvem anterior assente sobre o foco antes de lançar a seguinte.",
+      "b": "Em jatos curtos sucessivos sem pausa, mantendo o pó em suspensão e impedindo seu assentamento.",
+      "c": "Em jato contínuo direto à base do foco, renovando a nuvem antes que ela perca velocidade."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual recomenda jatos curtos de pó, permitindo a perda de velocidade e o assentamento sobre o foco. Uma nova descarga prematura pode deslocar a nuvem anterior. Referência: manual, capítulo 5, p. 77-78 do PDF."
+  },
+  {
+    "id": 50,
+    "tema": "Aparelhos extintores",
+    "dificuldade": "moderada",
+    "enunciado": "Na diferenciação feita pelo manual, qual afirmação sobre inspeção e recarga é correta?",
+    "alternativas": {
+      "a": "Inspeção e recarga só se diferenciam pelo prazo, dispensando a recomendação do fabricante quando o aparelho não foi usado.",
+      "b": "Inspecionar não implica necessariamente abrir o extintor; a recarga deve seguir a recomendação do fabricante ou ocorrer após o uso.",
+      "c": "Toda inspeção exige abertura e troca do agente, sendo a recarga apenas outro nome para o mesmo procedimento."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O texto distingue inspeção de recarga. A inspeção pode ocorrer sem abertura do aparelho, enquanto a recarga atende ao uso e às recomendações aplicáveis do fabricante. Referência: manual, capítulo 5, p. 79 do PDF."
+  },
+  {
+    "id": 51,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual é a função da capa externa da mangueira descrita no manual?",
+    "alternativas": {
+      "a": "Proteger contra abrasão, sem contribuir para suportar a pressão interna do condutor.",
+      "b": "Suportar a sucção como um mangote reforçado, evitando o colapso sob pressão interna reduzida.",
+      "c": "Proteger o tubo interno contra abrasão e auxiliar na resistência à pressão."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A capa externa protege o condutor interno contra desgaste e contribui para a resistência à pressão. A forma e a vazão do jato são funções de equipamentos específicos. Referência: manual, capítulo 6, p. 80 do PDF."
+  },
+  {
+    "id": 52,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual cuidado após o uso das mangueiras está de acordo com o manual?",
+    "alternativas": {
+      "a": "Lavar as mangueiras em boas condições e secá-las à sombra em suporte adequado antes do armazenamento.",
+      "b": "Guardar as mangueiras ainda úmidas e enroladas para evitar o ressecamento do revestimento.",
+      "c": "Aplicar óleo ou graxa nas uniões e expor a lona diretamente ao sol para acelerar a secagem."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual orienta lavagem com água e sabão neutro, enxágue e secagem completa à sombra. Também recomenda evitar óleo e graxa nas uniões. Referência: manual, capítulo 6, p. 81-82 do PDF."
+  },
+  {
+    "id": 53,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Quando é especialmente indicado o acondicionamento de mangueira em zig-zag ou sanfonado?",
+    "alternativas": {
+      "a": "Quando se busca armazenamento prolongado e não há necessidade de desenrolamento rápido.",
+      "b": "Quando se precisa priorizar o transporte em rolo, mantendo a mangueira dobrada ao meio.",
+      "c": "Quando se deseja montagem rápida e não é necessário transportar a mangueira por grandes deslocamentos."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O acondicionamento sanfonado facilita o rápido estendimento, mas dificulta o transporte. O manual o associa, por exemplo, a hidrantes de parede e certas linhas diretas das viaturas. Referência: manual, capítulo 6, p. 82 do PDF."
+  },
+  {
+    "id": 54,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual é a principal diferença entre o acondicionamento aduchado e o acondicionamento em espiral?",
+    "alternativas": {
+      "a": "O aduchado exige deixar a mangueira cheia; o espiral exige manter ambas as juntas pressurizadas.",
+      "b": "O aduchado impede o desenrolamento rápido; o espiral é a forma preferencial para montagem imediata de linhas.",
+      "c": "O aduchado facilita transporte e desenrolamento rápido; o espiral é indicado para armazenamento ou emprego remoto."
+    },
+    "resposta_correta": "c",
+    "explicacao": "No aduchado, a mangueira é dobrada ao meio e enrolada, facilitando seu transporte e uso. O espiral parte de uma junta e é menos adequado ao desenrolamento rápido. Referência: manual, capítulo 6, p. 82-83 do PDF."
+  },
+  {
+    "id": 55,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Por que os mangotes utilizados na sucção possuem reforços em anéis?",
+    "alternativas": {
+      "a": "Para impedir o colapso das paredes quando ocorre pressão interna inferior à externa durante a sucção.",
+      "b": "Para aumentar a flexibilidade a ponto de permitir seu uso preferencial nas linhas de ataque.",
+      "c": "Para impedir principalmente a expansão sob pressão positiva, sem influência na resistência ao colapso durante a sucção."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A sucção pode provocar colapso de condutores sem reforço. Os anéis mantêm a forma do mangote, enquanto ralos e filtros protegem o sistema contra impurezas. Referência: manual, capítulo 6, p. 83 do PDF."
+  },
+  {
+    "id": 56,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual característica operacional diferencia o mangotinho da mangueira comum descrita no manual?",
+    "alternativas": {
+      "a": "O mangotinho pode funcionar com desenrolamento parcial; a mangueira comum requer desenrolamento completo.",
+      "b": "O mangotinho também precisa de desenrolamento completo, mas dispensa o acionamento da bomba.",
+      "c": "O mangotinho admite uso parcial no carretel porque foi projetado exclusivamente para operar em sucção."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O carretel de alimentação axial permite usar o mangotinho sem desenrolá-lo por completo. O manual exige desenrolamento completo para a mangueira comum. Referência: manual, capítulo 6, p. 81, 84 do PDF."
+  },
+  {
+    "id": 57,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual associação entre divisor e coletor está correta?",
+    "alternativas": {
+      "a": "O divisor reúne várias fontes em uma saída; o coletor divide uma adutora em linhas de ataque.",
+      "b": "O divisor regula somente a espuma; o coletor modifica somente o diâmetro das juntas.",
+      "c": "O divisor distribui uma adutora em linhas de ataque; o coletor reúne entradas de água em uma saída."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O divisor possui uma admissão e múltiplas saídas. O coletor realiza a função inversa, reunindo duas ou mais entradas em uma saída. Referência: manual, capítulo 6, p. 87 do PDF."
+  },
+  {
+    "id": 58,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Uma conexão possui diâmetro incompatível; outra possui o mesmo diâmetro, mas sistema de união diferente. Quais acessórios resolvem, respectivamente, essas situações?",
+    "alternativas": {
+      "a": "Redução para ambas, pois o ajuste de diâmetro também converte automaticamente rosca em Storz.",
+      "b": "Redução para a diferença de diâmetro e adaptador para a diferença de sistema de união.",
+      "c": "Adaptador para a diferença de diâmetro e redução para a diferença de sistema de união."
+    },
+    "resposta_correta": "b",
+    "explicacao": "As reduções ajustam diferenças de diâmetro. Os adaptadores permitem unir conexões de tipos diferentes, como rosca e Storz. Referência: manual, capítulo 6, p. 90 do PDF."
+  },
+  {
+    "id": 59,
+    "tema": "Material hidráulico",
+    "dificuldade": "moderada",
+    "enunciado": "Qual é a finalidade principal do hidrante de recalque de uma edificação?",
+    "alternativas": {
+      "a": "Fornecer uma saída interna de uso manual com mangueira e esguicho, desempenhando a mesma função do hidrante de parede.",
+      "b": "Permitir aos bombeiros abastecer e pressurizar o sistema hidráulico preventivo da edificação.",
+      "c": "Permitir apenas retirar água do sistema da edificação, sem possibilidade de abastecê-lo pela viatura."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O hidrante de recalque permite alimentar o sistema hidráulico preventivo, fornecendo água e pressão aos hidrantes de parede. Referência: manual, capítulo 6, p. 92 do PDF."
+  },
+  {
+    "id": 60,
+    "tema": "Água no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Qual exemplo corresponde à pressão estática?",
+    "alternativas": {
+      "a": "A pressão medida na expedição enquanto a água é descarregada pela linha.",
+      "b": "A redução de pressão causada pelo atrito enquanto a água percorre uma linha aberta.",
+      "c": "Uma mangueira pressurizada pela bomba, com o esguicho fechado e sem fluxo."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Pressão estática atua sobre líquido sem escoamento. A pressão de descarga durante o fluxo é dinâmica, enquanto a redução de energia ao longo do percurso é perda de carga. Referência: manual, capítulo 7, p. 93-94 do PDF."
+  },
+  {
+    "id": 61,
+    "tema": "Água no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Ao recalcar água para um pavimento mais alto, qual efeito da gravidade deve ser considerado?",
+    "alternativas": {
+      "a": "Ela contribui para a perda de pressão; no fluxo descendente, pode contribuir para seu aumento.",
+      "b": "Ela aumenta a pressão na subida e reduz a pressão na descida.",
+      "c": "Ela não interfere na pressão quando a tubulação está completamente cheia."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O recalque para níveis superiores exige vencer a ação da gravidade. Em sentido descendente, a gravidade pode favorecer a pressão. Referência: manual, capítulo 7, p. 94 do PDF."
+  },
+  {
+    "id": 62,
+    "tema": "Água no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Uma linha opera com elevada vazão. Qual ação ajuda a evitar o golpe de aríete?",
+    "alternativas": {
+      "a": "Fechar o esguicho e as válvulas lentamente, evitando a interrupção súbita do fluxo.",
+      "b": "Fechar o esguicho rapidamente e compensar depois na bomba, evitando que o fluxo continue carregando a mangueira.",
+      "c": "Ampliar a abertura do cone e manter o fechamento instantâneo, pois o formato do jato elimina o golpe de aríete."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A interrupção súbita pode gerar excesso transitório de pressão e danificar mangueiras, conexões e bombas. O fechamento lento é a orientação geral do manual. Referência: manual, capítulo 7, p. 95 do PDF."
+  },
+  {
+    "id": 63,
+    "tema": "Água no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "No tubo Venturi de um proporcionador de espuma, qual fenômeno permite aspirar o LGE?",
+    "alternativas": {
+      "a": "O estreitamento acelera o fluxo e eleva a pressão local, de modo que o LGE é aspirado pela maior pressão da água.",
+      "b": "O estreitamento acelera o fluxo e reduz a pressão local, favorecendo a sucção do LGE.",
+      "c": "O estreitamento reduz a velocidade e eleva a pressão local, sendo a sobrepressão responsável pela sucção."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual relaciona a aspiração ao efeito Bernoulli: a aceleração no estreitamento acompanha uma queda de pressão que possibilita a entrada do LGE. Referência: manual, capítulo 7, p. 95-96, 104 do PDF."
+  },
+  {
+    "id": 64,
+    "tema": "Jatos de água",
+    "dificuldade": "moderada",
+    "enunciado": "Qual diferença estrutural entre jato sólido e jato compacto é adotada pelo manual?",
+    "alternativas": {
+      "a": "O sólido preenche o interior do jato; o compacto produzido por esguicho regulável possui região central vazia.",
+      "b": "O sólido é formado por gelo; o compacto é formado por água líquida.",
+      "c": "O sólido tem região central vazia; o compacto de esguicho regulável é preenchido em toda a seção."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A palavra sólido descreve a configuração preenchida do jato de agulheta ou smooth-bore. O mecanismo do esguicho regulável produz um jato compacto com miolo vazio. Referência: manual, capítulo 7, p. 97-99 do PDF."
+  },
+  {
+    "id": 65,
+    "tema": "Jatos de água",
+    "dificuldade": "moderada",
+    "enunciado": "Ao ampliar o cone de um jato neblinado, mantendo condições adequadas de operação, qual tendência é descrita?",
+    "alternativas": {
+      "a": "Menor fragmentação e maior alcance, com redução da área de contato.",
+      "b": "Maior fragmentação e rapidez de absorção de calor, com menor alcance.",
+      "c": "Maior alcance e menor fragmentação, sem alteração na troca de calor."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O cone mais aberto favorece a fragmentação e a absorção de calor, mas reduz a velocidade e o alcance do jato. Referência: manual, capítulo 7, p. 100 do PDF."
+  },
+  {
+    "id": 66,
+    "tema": "Água no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Qual consequência do excesso de vapor de água em um compartimento é destacada pelo manual?",
+    "alternativas": {
+      "a": "Pode perturbar o balanço térmico, trazer calor aos níveis inferiores e reduzir a visibilidade.",
+      "b": "Pode perturbar a estratificação, mas eleva necessariamente o plano neutro e melhora a visibilidade junto ao piso.",
+      "c": "Pode reduzir a visibilidade, mas mantém o calor restrito às camadas superiores mesmo com expansão da camada gasosa."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A produção excessiva de vapor pode ampliar a camada gasosa, abaixar o plano neutro e levar calor para regiões antes menos aquecidas. Referência: manual, capítulo 7, p. 103 do PDF."
+  },
+  {
+    "id": 67,
+    "tema": "Espuma no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Uma pré-mistura gera 100 litros de espuma para cada litro utilizado. Como essa espuma é classificada pela taxa de expansão do manual?",
+    "alternativas": {
+      "a": "Média expansão.",
+      "b": "Alta expansão.",
+      "c": "Baixa expansão."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual apresenta baixa expansão até 20 vezes, média de 20 a 200 vezes e alta de 200 a 1.000 vezes. A expansão de 100 vezes situa-se na faixa média. Referência: manual, capítulo 7, p. 104-105 do PDF."
+  },
+  {
+    "id": 68,
+    "tema": "Espuma no combate a incêndio",
+    "dificuldade": "moderada",
+    "enunciado": "Qual aplicação preserva melhor a cobertura de espuma sobre um líquido em chamas?",
+    "alternativas": {
+      "a": "Dirigir um jato penetrante ao centro do líquido, rompendo continuamente a cobertura já formada.",
+      "b": "Lançá-la suavemente contra um anteparo, permitindo que escorra e cubra a superfície.",
+      "c": "Concentrar o jato de espuma sobre a espuma existente para abrir canais até o combustível."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A aplicação suave por escorrimento evita destruir a espuma. O manual desaconselha lançá-la diretamente contra o líquido ou romper a cobertura já formada. Referência: manual, capítulo 7, p. 107 do PDF."
+  },
+  {
+    "id": 69,
+    "tema": "Guarnição de combate",
+    "dificuldade": "moderada",
+    "enunciado": "Qual composição corresponde à guarnição ideal de cinco integrantes proposta no manual?",
+    "alternativas": {
+      "a": "Chefe de guarnição, condutor operador, chefe de adutora, auxiliar de adutora e encarregado de hidrante.",
+      "b": "Chefe de guarnição, auxiliar de guarnição, condutor operador e dois chefes de linha, sem auxiliar de linha.",
+      "c": "Chefe de guarnição, auxiliar de guarnição, condutor operador, chefe de linha e auxiliar de linha."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A doutrina apresentada organiza cinco funções: Ch Gu, Aux Gu, COV, Ch L e Aux L, sem ignorar situações reais de efetivo reduzido. Referência: manual, capítulo 8, p. 110-111 do PDF."
+  },
+  {
+    "id": 70,
+    "tema": "Guarnição de combate",
+    "dificuldade": "moderada",
+    "enunciado": "Qual atribuição corresponde ao chefe de guarnição?",
+    "alternativas": {
+      "a": "Realizar dimensionamento contínuo da cena e gerenciar riscos durante a operação.",
+      "b": "Definir a tática inicial e mantê-la até o fim, deixando de reavaliar a cena depois do estabelecimento.",
+      "c": "Realizar o reconhecimento apenas antes do combate, transferindo o gerenciamento de risco integralmente à linha."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O chefe responde pelo efetivo, material, decisões táticas e segurança. O manual inclui dimensionamento da cena e gerenciamento de risco a todo instante. Referência: manual, capítulo 8, p. 111 do PDF."
+  },
+  {
+    "id": 71,
+    "tema": "Guarnição de combate",
+    "dificuldade": "moderada",
+    "enunciado": "Qual é o papel tático do auxiliar de guarnição descrito no manual?",
+    "alternativas": {
+      "a": "Coordenar apenas o abastecimento, sem substituir o chefe ou participar das manobras táticas.",
+      "b": "Ser o segundo em comando, apoiar e substituir o chefe quando necessário e coordenar manobras determinadas por ele.",
+      "c": "Substituir o chefe somente após o regresso, pois durante a ocorrência cada linha possui comando independente."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O Aux Gu é descrito como segundo em comando tático e elemento de apoio às variações de manobra, devendo secundar e eventualmente substituir o chefe. Referência: manual, capítulo 8, p. 112 do PDF."
+  },
+  {
+    "id": 72,
+    "tema": "Guarnição de combate",
+    "dificuldade": "moderada",
+    "enunciado": "Ao posicionar a viatura, qual critério deve prevalecer se houver conflito com a proximidade do foco e do ponto de abastecimento?",
+    "alternativas": {
+      "a": "A menor distância possível do fogo, mesmo sob risco de colapso da estrutura.",
+      "b": "A proximidade do hidrante, ainda que a viatura impeça a saída das equipes de resgate.",
+      "c": "A segurança do local de estacionamento e operação."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O protocolo prioriza a segurança mesmo em prejuízo de outros critérios. Proximidade, abastecimento e espaço de manobra devem ser avaliados dentro dessa condição. Referência: manual, capítulo 8, p. 113-114 do PDF."
+  },
+  {
+    "id": 73,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Na fase de aviso, quais informações são essenciais para iniciar a composição do socorro e seu deslocamento?",
+    "alternativas": {
+      "a": "Confirmar previamente todos os detalhes sobre vítimas, hidrantes e materiais antes de iniciar qualquer deslocamento.",
+      "b": "A natureza da ocorrência e o endereço em linhas gerais, complementando os detalhes durante o deslocamento.",
+      "c": "Obter apenas o endereço, pois a natureza da ocorrência não interfere nos recursos que devem compor o socorro."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A natureza da ocorrência orienta a escolha dos recursos. Município e bairro permitem iniciar o deslocamento, enquanto outras informações continuam sendo coletadas. Referência: manual, capítulo 9, p. 117 do PDF."
+  },
+  {
+    "id": 74,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Por que o reconhecimento é considerado um processo dinâmico?",
+    "alternativas": {
+      "a": "As informações devem ser atualizadas durante o atendimento, acompanhando mudanças de riscos e condições.",
+      "b": "Ele se encerra quando a primeira viatura estaciona, mesmo que surjam novos focos.",
+      "c": "Ele só ocorre depois da extinção, quando não existem mais mudanças relevantes no ambiente."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O reconhecimento não se limita a uma inspeção inicial. O manual determina sua atualização até o fim da ocorrência e a participação de toda a guarnição na transmissão de informações. Referência: manual, capítulo 9, p. 120-121 do PDF."
+  },
+  {
+    "id": 75,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Qual atividade integra a fase de estabelecimento?",
+    "alternativas": {
+      "a": "Definir a disposição definitiva das viaturas antes de qualquer reconhecimento, sem ajuste posterior.",
+      "b": "Posicionar taticamente as viaturas e montar o estabelecimento de mangueiras.",
+      "c": "Montar somente as linhas de ataque, pois o posicionamento das viaturas não integra o estabelecimento."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O estabelecimento abrange a disposição dos meios materiais para o combate, desde as viaturas até a montagem das linhas, considerando segurança, abastecimento e manobras. Referência: manual, capítulo 9, p. 121-122 do PDF."
+  },
+  {
+    "id": 76,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Qual relação entre combate e extinção corresponde ao manual?",
+    "alternativas": {
+      "a": "O combate é mais amplo e inclui isolamento, confinamento, extinção e rescaldo.",
+      "b": "A extinção é mais ampla, enquanto o combate corresponde somente ao posicionamento das linhas de ataque.",
+      "c": "Combate e extinção abrangem apenas o ataque às chamas; isolamento e rescaldo são tarefas sem relação com o combate."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Combater não se resume a apagar chamas. O manual inclui ações para limitar a propagação e evitar a reignição entre os esforços de combate. Referência: manual, capítulo 9, p. 122-123 do PDF."
+  },
+  {
+    "id": 77,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Durante o rescaldo, qual conduta está de acordo com o manual quanto à proteção respiratória?",
+    "alternativas": {
+      "a": "Substituir o equipamento respiratório pela avaliação visual, desde que não existam chamas.",
+      "b": "Retirar a proteção respiratória quando não houver cheiro perceptível, pois o CO tem odor intenso.",
+      "c": "Manter EPI completo e equipamento autônomo de respiração, apesar da aparente redução da fumaça."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O rescaldo pode envolver gases perigosos de combustão incompleta. Como o CO é incolor e inodoro, o manual mantém a exigência de proteção respiratória autônoma. Referência: manual, capítulo 9, p. 123-124 do PDF."
+  },
+  {
+    "id": 78,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Qual é a finalidade da reunião de análise posterior à ocorrência descrita pelo manual?",
+    "alternativas": {
+      "a": "Confirmar o procedimento existente, evitando registrar falhas que possam exigir revisão da doutrina.",
+      "b": "Identificar acertos e falhas de forma construtiva para melhorar a equipe e os procedimentos.",
+      "c": "Identificar erros individuais para responsabilização, sem discutir a adequação dos procedimentos empregados."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A análise posterior, ou debriefing, busca aprendizado técnico. Falhas de procedimentos devem ser comunicadas para permitir a revisão da doutrina. Referência: manual, capítulo 9, p. 124-125 do PDF."
+  },
+  {
+    "id": 79,
+    "tema": "Fases do socorro",
+    "dificuldade": "moderada",
+    "enunciado": "Qual informação deve constar de um relatório de ocorrência segundo as orientações do manual?",
+    "alternativas": {
+      "a": "Uma conclusão definitiva de culpa, mesmo sem evidências, para evitar registrar dúvidas sobre a causa.",
+      "b": "A situação encontrada, os danos e as ações realizadas, com linguagem clara e sem opiniões pessoais ou atribuição de culpa.",
+      "c": "Somente o horário do retorno, omitindo entradas forçadas e alterações feitas durante o combate."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O relatório deve registrar fatos observados e trabalhos executados. O manual exige clareza, precisão e a descrição de entradas forçadas e do que foi alterado pelos bombeiros. Referência: manual, capítulo 9, p. 125-126 do PDF."
+  },
+  {
+    "id": 80,
+    "tema": "Táticas de combate",
+    "dificuldade": "moderada",
+    "enunciado": "Qual situação conduz, em regra, à adoção do combate defensivo no manual?",
+    "alternativas": {
+      "a": "Qualquer incêndio em compartimento, pois o confinamento exige que toda aplicação de água seja externa.",
+      "b": "Qualquer risco de comportamento extremo, tornando impossível passar depois ao modo ofensivo.",
+      "c": "Edificação completamente tomada pelas chamas ou com risco de colapso estrutural."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O modo defensivo é o combate externo. O manual aponta o envolvimento completo da edificação e o risco de colapso como situações que, em geral, justificam esse modo. Referência: manual, capítulo 10, p. 127 do PDF."
+  },
+  {
+    "id": 81,
+    "tema": "Isolamento e confinamento",
+    "dificuldade": "moderada",
+    "enunciado": "Proteger uma casa vizinha e impedir que o fogo alcance outro quarto da casa sinistrada correspondem, respectivamente, a quais ações?",
+    "alternativas": {
+      "a": "Confinamento e isolamento.",
+      "b": "Isolamento e confinamento.",
+      "c": "Isolamento em ambos os casos, porque as duas ações procuram impedir a propagação."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O isolamento protege sistemas vizinhos. O confinamento busca limitar a propagação dentro do mesmo sistema, como entre compartimentos de uma edificação. Referência: manual, capítulo 10, p. 128-130 do PDF."
+  },
+  {
+    "id": 82,
+    "tema": "Técnicas de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Um foco sólido está protegido por um obstáculo. O jato é dirigido ao teto para desviar e cair sobre esse foco. Qual técnica é essa?",
+    "alternativas": {
+      "a": "Ataque direto modificado, pois o alvo final continua sendo a fase sólida em queima.",
+      "b": "Saturação com neblina, pois qualquer desvio do jato transforma a água em névoa antes do impacto.",
+      "c": "Ataque indireto, pois qualquer jato que atinge o teto tem como objetivo exclusivo gerar vapor."
+    },
+    "resposta_correta": "a",
+    "explicacao": "No ataque direto modificado, o teto é usado para defletir o jato até o combustível. No indireto, busca-se absorver calor das superfícies e gerar vapor para atuar no ambiente. Referência: manual, capítulo 10, p. 131 do PDF."
+  },
+  {
+    "id": 83,
+    "tema": "Técnicas de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Qual sequência de aplicação caracteriza o ataque combinado?",
+    "alternativas": {
+      "a": "Aplicar continuamente sobre paredes e teto para formar vapor, sem dirigir água à fase sólida.",
+      "b": "Alternar aplicação em paredes e teto aquecidos com aplicação sobre a fase sólida do combustível.",
+      "c": "Defletir o jato no teto para atingir exclusivamente o foco escudado, sem alternar objetivos de aplicação."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O ataque combinado alterna as técnicas indireta e direta, atuando no ambiente aquecido e no combustível sólido. Referência: manual, capítulo 10, p. 131-132 do PDF."
+  },
+  {
+    "id": 84,
+    "tema": "Técnicas de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Em um cômodo com teto alto, o pulso neblinado curto não alcança a parte mais aquecida da capa térmica. Qual ajuste é indicado pelo manual?",
+    "alternativas": {
+      "a": "Dirigir o pulso curto somente ao piso, pois a capa térmica será resfriada por condução através do chão.",
+      "b": "Empregar pulso médio com jato neblinado estreito, obtendo maior alcance e mantendo os ajustes de vazão e pressão.",
+      "c": "Ampliar ainda mais o cone e encurtar o pulso, buscando maior alcance com gotas mais dispersas."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O pulso médio, de 1 a 2 segundos, utiliza jato neblinado estreito para alcançar regiões que o pulso curto amplo não atinge, como em cômodos maiores ou de teto alto. Referência: manual, capítulo 10, p. 133-134 do PDF."
+  },
+  {
+    "id": 85,
+    "tema": "Técnicas de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "Qual associação entre jato mole e penciling está correta?",
+    "alternativas": {
+      "a": "O jato mole lança pulsos de alta vazão no foco; o penciling usa abertura total para resfriar preventivamente superfícies intactas.",
+      "b": "O jato mole combate prioritariamente a capa térmica; o penciling satura o cômodo com neblina contínua.",
+      "c": "O jato mole resfria suavemente superfícies em termólise; o penciling lança pequenas porções de água sobre a fase sólida em queima."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Ambas as técnicas controlam a quantidade e a energia da aplicação. O jato mole é descrito como resfriamento preventivo, e o penciling como aplicação pontual de porções de água no sólido. Referência: manual, capítulo 10, p. 134-135 do PDF."
+  },
+  {
+    "id": 86,
+    "tema": "Técnicas de extinção",
+    "dificuldade": "moderada",
+    "enunciado": "No pulso longo de alta vazão, ou ZOTI, por que o fechamento do esguicho deve ser lento?",
+    "alternativas": {
+      "a": "O fechamento brusco é seguro também em alta vazão, pois a mesma exceção dos pulsos curtos se aplica ao ZOTI.",
+      "b": "O fechamento lento mantém o jato fragmentado após a interrupção, enquanto a alta vazão elimina o risco hidráulico.",
+      "c": "A alta vazão torna o fechamento brusco capaz de produzir golpe de aríete e danificar a linha."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Na técnica ZOTI, o manual indica alta vazão e alerta que a interrupção brusca pode romper mangueiras. Por isso, determina fechamento lento. Referência: manual, capítulo 10, p. 135 do PDF."
+  },
+  {
+    "id": 87,
+    "tema": "Abordagem de ambientes",
+    "dificuldade": "moderada",
+    "enunciado": "Por que se deve preservar e resfriar uma porta que está sofrendo termólise pelo lado externo?",
+    "alternativas": {
+      "a": "A perda da porta pode retirar o controle sobre a ventilação do foco existente atrás dela.",
+      "b": "A perda da porta reduz a entrada de oxigênio, mas aumenta a dificuldade de identificar o foco.",
+      "c": "O resfriamento da porta tem apenas o objetivo de apagar sua superfície, sem relação com o controle do ar no cômodo."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A porta integra o controle das aberturas. Sua perda pode aumentar a entrada de ar, alterando o regime de queima e os riscos do ambiente. Referência: manual, capítulo 10, p. 136 do PDF."
+  },
+  {
+    "id": 88,
+    "tema": "Gases combustíveis",
+    "dificuldade": "moderada",
+    "enunciado": "Qual tendência de dispersão diferencia o gás natural do GLP no manual?",
+    "alternativas": {
+      "a": "Ambos permanecem sempre na altura da fonte, porque sua densidade é igual à do ar.",
+      "b": "O gás natural tende a ocupar níveis baixos; o GLP tende a subir por ser mais leve que o ar.",
+      "c": "O gás natural tende a subir por ser mais leve que o ar; o GLP tende a ocupar níveis baixos por ser mais pesado."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual descreve o gás natural como mais leve que o ar e o GLP como aproximadamente 1,5 vez mais pesado, destacando diferentes regiões de possível acúmulo. Referência: manual, capítulo 10, p. 149-150 do PDF."
+  },
+  {
+    "id": 89,
+    "tema": "Gases combustíveis",
+    "dificuldade": "moderada",
+    "enunciado": "Um vazamento de gás está em chamas, mas o fluxo ainda não pode ser interrompido. Por que o manual orienta controlar o fogo sem simplesmente apagá-lo?",
+    "alternativas": {
+      "a": "A prioridade é apagar as chamas e depois localizar a válvula, pois o gás não queimado oferece menor risco de explosão.",
+      "b": "Apagar as chamas sem interromper o fluxo é seguro desde que a fumaça visível deixe de ser produzida.",
+      "c": "Apagar as chamas mantendo o vazamento pode permitir o acúmulo de gás e criar uma mistura explosiva."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A solução depende do controle do fornecimento de combustível. Extinguir a chama sem interromper o fluxo pode produzir uma nuvem inflamável e agravar o risco de explosão. Referência: manual, capítulo 10, p. 149-150 do PDF."
+  },
+  {
+    "id": 90,
+    "tema": "Recipientes pressurizados e BLEVE",
+    "dificuldade": "moderada",
+    "enunciado": "Por que a parte do recipiente acima do nível do líquido exige especial atenção quando o recipiente é exposto ao fogo?",
+    "alternativas": {
+      "a": "Ela perde resistência apenas por excesso de pressão, sem influência do aquecimento da parede exposta.",
+      "b": "Ela não recebe a mesma remoção de calor promovida pela convecção do líquido e pode perder resistência sob aquecimento.",
+      "c": "Ela recebe maior resfriamento pelo vapor do que a parte em contato com o líquido, mas suporta toda a pressão sozinha."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O líquido ajuda a retirar calor da parede em contato com ele. Acima de seu nível, a parede pode aquecer e enfraquecer, permitindo ruptura sob a pressão interna. Referência: manual, capítulo 10, p. 150-151 do PDF."
+  },
+  {
+    "id": 91,
+    "tema": "Ventilação",
+    "dificuldade": "moderada",
+    "enunciado": "Qual diferença entre ventilação hidráulica por pressão positiva e por pressão negativa corresponde ao manual?",
+    "alternativas": {
+      "a": "Na positiva, o jato retira gases para fora; na negativa, força ar para dentro.",
+      "b": "Na positiva, a movimentação é sempre natural; na negativa, não se utilizam jatos ou equipamentos.",
+      "c": "Na positiva, o jato favorece a entrada de ar no ambiente; na negativa, favorece a retirada dos gases para o exterior."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A VPP força a entrada de ar e é executada de fora para dentro. A VPN favorece a exaustão e, no emprego hidráulico descrito, é feita de dentro para fora. Referência: manual, capítulo 10, p. 158-161 do PDF."
+  },
+  {
+    "id": 92,
+    "tema": "Ventilação",
+    "dificuldade": "moderada",
+    "enunciado": "Ao planejar uma ventilação cruzada com o fogo ainda ativo, qual escolha reduz o risco de transportar calor para áreas preservadas?",
+    "alternativas": {
+      "a": "Escolher a saída mais distante do foco, porque a passagem por áreas preservadas elimina a combustibilidade da fumaça.",
+      "b": "Criar primeiro a entrada de ar e obrigar a fumaça a atravessar todos os cômodos não atingidos antes de sair.",
+      "c": "Criar a saída de fumaça próxima ao foco e direcioná-la ao exterior, preparando essa saída antes de alimentar a entrada de ar."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual recomenda abrir a saída antes da entrada e manter a saída próxima ao foco. O percurso dos gases deve evitar compartimentos preservados e impedir a propagação de calor. Referência: manual, capítulo 10, p. 157-158, 160-161 do PDF."
+  },
+  {
+    "id": 93,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Uma vítima é vista acenando de uma janela, e sua localização é conhecida. Qual ação corresponde à terminologia do manual?",
+    "alternativas": {
+      "a": "Busca rápida, porque a presença visual da vítima apenas indica uma localização provável.",
+      "b": "Salvamento, porque se trata de retirar uma vítima confirmada e localizada.",
+      "c": "Busca secundária, porque a retirada depende de confirmar novamente a posição da vítima."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Busca é procurar vítimas cuja existência ou localização não está definida. Salvamento é retirar vítimas confirmadas e localizadas. Referência: manual, capítulo 11, p. 163 do PDF."
+  },
+  {
+    "id": 94,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Com efetivo insuficiente para ações simultâneas e sem vítimas confirmadas ou localizadas, qual prioridade o manual estabelece?",
+    "alternativas": {
+      "a": "Priorizar a ventilação geral sem combate, pois a renovação de ar garante a redução do regime de queima.",
+      "b": "Priorizar o combate para controlar a evolução do incêndio e melhorar as condições para possíveis vítimas e buscas.",
+      "c": "Priorizar a busca sistemática de todos os cômodos, deixando a progressão do incêndio para depois da exploração."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A prioridade descrita depende da informação sobre as vítimas e dos recursos. Sem vítimas localizadas, o manual prioriza o combate; havendo vítimas localizadas, o salvamento precede quando viável. Referência: manual, capítulo 11, p. 163-164 do PDF."
+  },
+  {
+    "id": 95,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Há confirmação de uma vítima provavelmente em determinado quarto. Qual característica corresponde à busca rápida descrita no manual?",
+    "alternativas": {
+      "a": "É dirigida ao local indicado, mas deve continuar pelos demais cômodos se a vítima não for achada imediatamente.",
+      "b": "É uma busca primária feita obrigatoriamente pela linha em sua rota ao foco, sem prioridade ao quarto indicado.",
+      "c": "É dirigida ao local indicado; se a vítima não for encontrada imediatamente, o bombeiro retorna ao exterior."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A busca rápida é pontual, orientada por uma localização provável e decidida pelo responsável. O manual não a apresenta como vasculhamento sistemático prolongado. Referência: manual, capítulo 11, p. 166-167 do PDF."
+  },
+  {
+    "id": 96,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Qual limite deve ser respeitado na busca primária feita pela linha de combate durante a progressão ao foco?",
+    "alternativas": {
+      "a": "A linha deve dividir seus dois integrantes, deixando apenas um bombeiro no esguicho para ampliar a busca.",
+      "b": "As verificações nas imediações devem ocorrer sem desviar a linha de sua progressão e comprometer o combate.",
+      "c": "A linha deve abandonar a rota ao foco e realizar uma busca sistemática em toda a edificação."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A busca primária acompanha a progressão. O manual preserva a missão de combate e determina que a linha não fique com menos de dois integrantes. Referência: manual, capítulo 11, p. 167-168 do PDF."
+  },
+  {
+    "id": 97,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Uma porta apresenta somente um traço diagonal; após a exploração sistemática, recebe o segundo traço, formando um X. Qual é o significado dessa marcação?",
+    "alternativas": {
+      "a": "Um traço indica busca concluída; dois traços indicam que o ambiente nunca foi explorado.",
+      "b": "Um traço indica busca em andamento ou apenas primária; dois traços indicam busca concluída.",
+      "c": "Um traço indica ausência de riscos estruturais; dois traços indicam obrigatoriamente presença de vítima."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A marcação evita repetição e orienta outras equipes. O X completo registra a conclusão da busca no ambiente; a indicação de vítima utiliza outra marcação descrita pelo manual. Referência: manual, capítulo 11, p. 168-170 do PDF."
+  },
+  {
+    "id": 98,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Por que a progressão a três ou quatro apoios é recomendada em locais quentes, com baixa visibilidade ou estrutura comprometida?",
+    "alternativas": {
+      "a": "Reduz a exposição ao calor, mas a identificação de buracos só ocorre depois que o centro de gravidade já passou sobre eles.",
+      "b": "Mantém o bombeiro próximo ao piso porque as camadas inferiores ficam automaticamente livres de gases tóxicos.",
+      "c": "Mantém o bombeiro próximo às camadas menos quentes e favorece a detecção de falhas no piso antes de avançar o centro de gravidade."
+    },
+    "resposta_correta": "c",
+    "explicacao": "A posição baixa reduz a exposição às regiões superiores mais quentes. Em quatro apoios, a identificação de um vazio pode ocorrer antes que o centro de gravidade esteja sobre ele. Referência: manual, capítulo 11, p. 170-171 do PDF."
+  },
+  {
+    "id": 99,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Na ordem de prioridade do manual para buscas em edifícios altos, quais pavimentos são verificados inicialmente?",
+    "alternativas": {
+      "a": "O mais alto, o térreo e somente por último o pavimento do incêndio, independentemente da propagação.",
+      "b": "O pavimento do incêndio, o imediatamente acima e o mais alto do prédio; depois, os demais em sentido descendente.",
+      "c": "O térreo, o mais baixo não atingido e o pavimento imediatamente abaixo; depois, os demais em sentido ascendente."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A sequência segue a probabilidade de propagação do calor e da fumaça, priorizando o andar sinistrado, o imediatamente superior e o pavimento mais alto. Referência: manual, capítulo 11, p. 171 do PDF."
+  },
+  {
+    "id": 100,
+    "tema": "Busca e salvamento",
+    "dificuldade": "moderada",
+    "enunciado": "Por que as vítimas devem ser conduzidas o mais próximo possível do chão durante a retirada de um ambiente incendiado?",
+    "alternativas": {
+      "a": "A posição baixa garante ar respirável e dispensa proteger as vítimas da fumaça durante a retirada.",
+      "b": "A estratificação tende a concentrar os gases mais quentes na parte superior, tornando a posição baixa relativamente menos exposta ao calor.",
+      "c": "A posição baixa serve apenas para melhorar a visibilidade, sem relação com a distribuição vertical da temperatura."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual associa a condução baixa à estratificação térmica. Isso reduz a exposição relativa ao calor, sem eliminar os demais riscos ou a necessidade de proteção. Referência: manual, capítulo 11, p. 172 do PDF."
+  },
+  {
+    "id": 101,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Madeira e álcool podem permanecer em contato com o ar sem começar a queimar. Qual condição explica isso no modelo do capítulo 1?",
+    "alternativas": {
+      "a": "A presença de combustível e oxigênio não basta: é necessária energia de ativação para iniciar a reação.",
+      "b": "O combustível só pode reagir depois que a concentração de oxigênio supera a composição normal do ar.",
+      "c": "A reação em cadeia precisa existir antes do primeiro aquecimento para fornecer toda a energia inicial."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual utiliza materiais em contato com o ar para mostrar que combustível e comburente não iniciam, por si sós, a combustão. A energia de ativação permite o início da reação. Referência: manual, capítulo 1, p. 8 do PDF."
+  },
+  {
+    "id": 102,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que o manual utiliza um tetraedro, em vez de um quadrilátero, para representar os elementos da combustão?",
+    "alternativas": {
+      "a": "Porque cada face do tetraedro se liga às demais, representando a relação entre todos os elementos.",
+      "b": "Porque três faces representam os estados físicos e a quarta representa apenas os combustíveis especiais.",
+      "c": "Porque as faces representam etapas sucessivas que não precisam ocorrer em conjunto."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A escolha da figura evidencia a ligação entre os elementos da combustão. O manual destaca que, no tetraedro, cada face está conectada a todas as outras. Referência: manual, capítulo 1, p. 9 do PDF."
+  },
+  {
+    "id": 103,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um material permanece em brasa, liberando calor, mas não apresenta chama. Qual conclusão corresponde ao capítulo 1?",
+    "alternativas": {
+      "a": "Pode haver combustão sem chama, pois a liberação de energia também pode ocorrer com incandescência do material.",
+      "b": "Sem chama, o processo só pode ser uma mudança física, mesmo que o material continue reagindo com oxigênio.",
+      "c": "A ausência de chama indica necessariamente reação lenta semelhante à ferrugem, sem liberação significativa de calor."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual distingue combustão de chama. A queima pode se apresentar como brasas, com incandescência, sem a chama característica da fase gasosa. Referência: manual, capítulo 1, p. 9, 28, 30 do PDF."
+  },
+  {
+    "id": 104,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual associação entre calor e temperatura corresponde à distinção técnica apresentada no capítulo 1?",
+    "alternativas": {
+      "a": "Calor é a medida em graus da agitação molecular; temperatura é a energia transferida entre dois corpos.",
+      "b": "Calor é energia em trânsito; temperatura indica, em termos práticos, o grau de agitação das moléculas.",
+      "c": "Calor e temperatura são grandezas equivalentes, expressas pelas mesmas unidades e escalas."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Embora o manual simplifique alguns usos de calor como energia térmica, sua distinção técnica identifica calor como transferência de energia e temperatura como medida da agitação molecular. Referência: manual, capítulo 1, p. 10 do PDF."
+  },
+  {
+    "id": 105,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "O atrito entre peças de um equipamento aquece sua superfície. Na classificação do manual, qual transformação explica esse calor?",
+    "alternativas": {
+      "a": "Transformação de energia química em energia térmica, porque todo atrito é uma combustão.",
+      "b": "Transformação de energia nuclear em energia térmica, porque o atrito rompe núcleos atômicos.",
+      "c": "Transformação de energia mecânica em energia térmica."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O capítulo 1 apresenta o atrito como exemplo de obtenção de calor a partir de energia mecânica. Não é necessário haver combustão para que esse aquecimento ocorra. Referência: manual, capítulo 1, p. 11 do PDF."
+  },
+  {
+    "id": 106,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "O calor da queima de um combustível e o calor da passagem de corrente por um condutor têm, respectivamente, quais origens na classificação do manual?",
+    "alternativas": {
+      "a": "Energia química e energia elétrica.",
+      "b": "Energia elétrica e energia mecânica.",
+      "c": "Energia mecânica e energia química."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A combustão transforma energia química em calor. O aquecimento associado à passagem de corrente no condutor é apresentado como transformação de energia elétrica. Referência: manual, capítulo 1, p. 11 do PDF."
+  },
+  {
+    "id": 107,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual conjunto reúne somente unidades de medida de calor ou energia citadas pelo manual, sem incluir escalas de temperatura?",
+    "alternativas": {
+      "a": "Kelvin, BTU e Fahrenheit.",
+      "b": "Caloria, Celsius e joule.",
+      "c": "Caloria, BTU e joule."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Caloria, BTU e joule são unidades utilizadas para energia. Celsius, Kelvin, Fahrenheit e Rankine são escalas de temperatura citadas no mesmo capítulo. Referência: manual, capítulo 1, p. 10 do PDF."
+  },
+  {
+    "id": 108,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Uma superfície aquecida pode iniciar a combustão mesmo sem apresentar chama visível. Qual princípio do capítulo 1 explica essa possibilidade?",
+    "alternativas": {
+      "a": "A energia necessária à ignição pode ser fornecida por uma fonte de calor que não seja chama.",
+      "b": "A superfície inicia a combustão por substituir o oxigênio, sem necessidade de aquecer o combustível.",
+      "c": "A superfície só pode iniciar a combustão se emitir uma chama antes de transferir calor ao combustível."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual alerta para não confundir calor com chama. Superfícies aquecidas, faíscas, fagulhas e centelhas podem fornecer energia para iniciar a queima. Referência: manual, capítulo 1, p. 10 do PDF."
+  },
+  {
+    "id": 109,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Dois corpos com temperaturas diferentes trocam calor até atingir equilíbrio. Por que a temperatura final não é necessariamente a média aritmética das temperaturas iniciais?",
+    "alternativas": {
+      "a": "Porque o equilíbrio exige que o corpo menor permaneça sempre mais quente que o maior.",
+      "b": "Porque a troca também depende das massas e das capacidades térmicas dos corpos.",
+      "c": "Porque a temperatura final depende apenas de qual corpo começou a transferir calor primeiro."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo 1 ressalta que massa e capacidade térmica influenciam a quantidade de energia transferida. A média aritmética simples não contempla essas diferenças. Referência: manual, capítulo 1, p. 14 do PDF."
+  },
+  {
+    "id": 110,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que um combustível mau condutor, como madeira ou papel, pode aquecer localmente com facilidade?",
+    "alternativas": {
+      "a": "Porque a baixa condutibilidade dispensa o aquecimento e permite reação imediata com o oxigênio.",
+      "b": "Porque o calor se distribui instantaneamente por toda a massa, elevando mais depressa a temperatura local.",
+      "c": "Porque o calor tende a se acumular na região aquecida, em vez de ser rapidamente distribuído por todo o material."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual relaciona a facilidade de queima desses materiais à concentração de calor em uma pequena região. Bons condutores distribuem mais rapidamente a energia recebida. Referência: manual, capítulo 1, p. 18 do PDF."
+  },
+  {
+    "id": 111,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "No exemplo da viga de concreto armado aquecida, qual problema decorre da diferença de dilatação entre ferro e concreto?",
+    "alternativas": {
+      "a": "Os materiais variam de dimensão em proporções diferentes, podendo provocar deslocamentos internos e perda de sustentação.",
+      "b": "O ferro se contrai enquanto o concreto se dilata, sendo esse o comportamento normal de ambos sob aquecimento.",
+      "c": "Os materiais se alongam exatamente na mesma proporção, de modo que a dilatação não pode criar esforços entre eles."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O exemplo do manual apresenta alongamento maior do ferro do que do concreto. Essa diferença pode gerar esforços internos e danos à estrutura. Referência: manual, capítulo 1, p. 12 do PDF."
+  },
+  {
+    "id": 112,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um sólido passa diretamente para o estado gasoso por efeito do aquecimento, sem etapa líquida intermediária. Como essa mudança de estado é denominada no manual?",
+    "alternativas": {
+      "a": "Termólise.",
+      "b": "Sublimação.",
+      "c": "Vaporização de um líquido."
+    },
+    "resposta_correta": "b",
+    "explicacao": "Sublimação é a passagem direta de sólido a gás. A termólise é uma decomposição química, não apenas uma mudança de estado físico. Referência: manual, capítulo 1, p. 12-13 do PDF."
+  },
+  {
+    "id": 113,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um recipiente está cheio de líquido e passa a receber calor. Qual risco é associado à dilatação do líquido no capítulo 1?",
+    "alternativas": {
+      "a": "Interrupção da evaporação, porque a dilatação torna as moléculas permanentemente presas.",
+      "b": "Redução do volume e formação obrigatória de pressão negativa no recipiente.",
+      "c": "Transbordamento ou ruptura do recipiente pela expansão do conteúdo."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual apresenta a dilatação dos líquidos como causa possível de transbordamentos e rupturas de recipientes, inclusive os que contêm produtos perigosos. Referência: manual, capítulo 1, p. 12 do PDF."
+  },
+  {
+    "id": 114,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um recipiente fechado contém gás sob pressão e é aquecido sem possibilidade de alívio. Qual consequência é destacada pelo capítulo 1?",
+    "alternativas": {
+      "a": "A pressão permanece constante, porque o recipiente impede a mudança de volume do gás.",
+      "b": "A pressão diminui, porque o aquecimento reduz o movimento das moléculas e concentra o gás no fundo.",
+      "c": "A pressão interna pode aumentar até superar a resistência das paredes e provocar ruptura com expansão violenta."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O confinamento impede a expansão livre do conteúdo. O aquecimento pode elevar a pressão e, sem alívio ou interrupção do calor, ocasionar ruptura do recipiente. Referência: manual, capítulo 1, p. 12 do PDF."
+  },
+  {
+    "id": 115,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Uma camada de gases quentes sobe e encontra um teto que impede sua ascensão. O deslocamento horizontal subsequente deixa de ser convecção?",
+    "alternativas": {
+      "a": "Sim. Qualquer transferência horizontal passa a ser condução, mesmo quando a massa de gás se desloca.",
+      "b": "Sim. A convecção exige trajetória exclusivamente vertical, sem influência de obstáculos físicos.",
+      "c": "Não. A convecção pode ocorrer horizontalmente quando um obstáculo desvia o deslocamento do fluido."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual descreve tendência ascendente da convecção, mas admite movimento horizontal diante de obstáculos. O mecanismo continua envolvendo transporte de calor pelo fluido. Referência: manual, capítulo 1, p. 16 do PDF."
+  },
+  {
+    "id": 116,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Dois objetos sólidos de temperaturas diferentes estão em contato. Como o manual descreve a transmissão por condução entre eles?",
+    "alternativas": {
+      "a": "O calor é transferido apenas quando as moléculas de um objeto se deslocam em massa para o outro.",
+      "b": "O calor pode atravessar o contato, propagando-se pelos corpos como se fossem um só.",
+      "c": "O contato impede a transmissão; a condução só ocorre dentro de um objeto isolado."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A condução entre corpos distintos requer contato. A transferência ocorre de molécula a molécula, sem o transporte de matéria característico da convecção. Referência: manual, capítulo 1, p. 15 do PDF."
+  },
+  {
+    "id": 117,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual propriedade permite distinguir a irradiação da condução e da convecção?",
+    "alternativas": {
+      "a": "A irradiação exige contato direto entre sólidos, mas dispensa o deslocamento de fluidos.",
+      "b": "A irradiação pode transferir energia através do espaço sem precisar de continuidade material entre fonte e receptor.",
+      "c": "A irradiação exige uma corrente de gás que transporte as moléculas aquecidas até o receptor."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A irradiação ocorre por ondas eletromagnéticas e não exige um meio material contínuo. Contato entre sólidos e transporte por fluidos caracterizam outros mecanismos. Referência: manual, capítulo 1, p. 17 do PDF."
+  },
+  {
+    "id": 118,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Na descrição molecular do manual, o que o calor faz com as moléculas grandes e complexas de muitos combustíveis sólidos?",
+    "alternativas": {
+      "a": "Mantém sua estrutura química e apenas afasta moléculas idênticas, como na vaporização de um líquido.",
+      "b": "Transforma-as necessariamente em um líquido antes de qualquer liberação de vapor combustível.",
+      "c": "Decompõe-as em partes menores que podem ser liberadas como vapores combustíveis."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O capítulo 1 descreve a termólise como quebra de estruturas moleculares dos sólidos, liberando partes menores. A passagem prévia por líquido não é apresentada como regra para todos os sólidos. Referência: manual, capítulo 1, p. 13, 19 do PDF."
+  },
+  {
+    "id": 119,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que uma nuvem de pó combustível suspenso no ar pode queimar muito mais rapidamente do que um bloco do mesmo material?",
+    "alternativas": {
+      "a": "A suspensão reduz a disponibilidade de combustível, e a velocidade aumenta porque a combustão passa a dispensar comburente.",
+      "b": "As partículas possuem menor superfície total e ficam isoladas do oxigênio, concentrando a queima em um único ponto.",
+      "c": "As partículas possuem grande relação superfície-massa e amplo contato com o ar, permitindo comportamento de queima semelhante ao de uma nuvem gasosa."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual relaciona o comportamento explosivo de certos pós em suspensão à elevada relação superfície-massa e à dispersão no ar. Isso não elimina a necessidade de condições adequadas de combustão. Referência: manual, capítulo 1, p. 19-20 do PDF."
+  },
+  {
+    "id": 120,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual interpretação sobre as cinzas deixadas por combustíveis sólidos corresponde ao capítulo 1?",
+    "alternativas": {
+      "a": "As cinzas são vapores combustíveis condensados que demonstram ausência de queima no interior do sólido.",
+      "b": "As cinzas indicam necessariamente que toda a reação ocorreu de maneira ideal e sem produtos de combustão incompleta.",
+      "c": "Parte da matéria do sólido pode não estar apta a queimar ou não conseguir queimar, permanecendo como resíduo."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual observa que nem toda a matéria de um sólido consegue queimar. A presença de cinzas, por si só, não comprova combustão química completa. Referência: manual, capítulo 1, p. 20 do PDF."
+  },
+  {
+    "id": 121,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual relação entre material combustível e material inflamável é apresentada no capítulo 1?",
+    "alternativas": {
+      "a": "Todo inflamável é combustível, mas nem todo combustível é inflamável nas condições de temperatura ambiente consideradas.",
+      "b": "Combustíveis e inflamáveis são grupos separados, definidos apenas pelo estado sólido ou líquido do material.",
+      "c": "Todo combustível é inflamável à temperatura ambiente, embora nem todo inflamável consiga reagir com oxigênio."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Ser combustível significa poder alimentar a combustão. O manual associa a inflamabilidade à facilidade de liberar vapores suficientes para sustentar a queima nas condições consideradas. Referência: manual, capítulo 1, p. 18 do PDF."
+  },
+  {
+    "id": 122,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Em comparação com um combustível líquido que precisa liberar vapores, qual característica facilita a ignição de um combustível já gasoso?",
+    "alternativas": {
+      "a": "Suas moléculas já estão no estado adequado para se misturar com o oxigênio, embora ainda sejam necessárias concentração apropriada e energia de ativação.",
+      "b": "Sua condição gasosa garante que a queima comece automaticamente, independentemente da proporção de ar e combustível.",
+      "c": "Suas moléculas precisam primeiro se condensar e depois sofrer termólise para se combinar com o oxigênio."
+    },
+    "resposta_correta": "a",
+    "explicacao": "Gases não precisam vaporizar antes de reagir. Entretanto, o capítulo 1 enfatiza que não queimam automaticamente: mistura adequada e energia de ativação continuam necessárias. Referência: manual, capítulo 1, p. 22-23 do PDF."
+  },
+  {
+    "id": 123,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Na distinção didática do capítulo 1, um líquido só libera vapores suficientes para manter uma chama depois de ser aquecido acima da temperatura ambiente. Como ele é enquadrado?",
+    "alternativas": {
+      "a": "Como líquido inflamável, porque a necessidade de aquecimento adicional é o critério que define essa categoria.",
+      "b": "Como líquido combustível, diferentemente dos líquidos inflamáveis que já liberam vapores suficientes nas condições ambientes descritas.",
+      "c": "Como material não combustível, porque a incapacidade de manter chama à temperatura ambiente impede sua queima em qualquer condição."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual distingue líquidos inflamáveis de líquidos combustíveis pela capacidade de liberar vapores suficientes à temperatura ambiente. Os combustíveis podem precisar de aquecimento para sustentar a chama. Referência: manual, capítulo 1, p. 22 do PDF."
+  },
+  {
+    "id": 124,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Segundo a explicação do capítulo 1, o aumento de temperatura de um combustível líquido tende a produzir qual efeito?",
+    "alternativas": {
+      "a": "Menor movimentação molecular e redução da pressão de vapor, apesar de o líquido permanecer aquecido.",
+      "b": "Maior pressão de vapor apenas depois que o líquido se decompõe quimicamente como um sólido.",
+      "c": "Maior movimentação molecular, aumento da pressão de vapor e maior liberação de vapores."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O aquecimento aumenta a movimentação das moléculas e favorece a liberação de vapores. Na descrição do manual, a evaporação do líquido não exige a decomposição química típica da termólise dos sólidos. Referência: manual, capítulo 1, p. 21 do PDF."
+  },
+  {
+    "id": 125,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Ao escapar para um recinto, qual comportamento volumétrico de um gás é destacado pelo manual?",
+    "alternativas": {
+      "a": "Ele tende a ocupar o espaço disponível, pois não possui volume próprio definido como um corpo sólido.",
+      "b": "Ele mantém obrigatoriamente o mesmo volume que ocupava no recipiente original, mesmo sem confinamento.",
+      "c": "Ele se comporta como líquido e ocupa somente a parte inferior do recinto com uma superfície livre definida."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O capítulo 1 afirma que gases não têm volume definido e tendem a ocupar o recipiente ou espaço que os contém. Sua dispersão também depende das condições do ambiente. Referência: manual, capítulo 1, p. 22 do PDF."
+  },
+  {
+    "id": 126,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um gás liberado é mais denso que o ar. Qual comportamento deve ser considerado, conforme a descrição do capítulo 1?",
+    "alternativas": {
+      "a": "Deve subir imediatamente e se dispersar apenas nos níveis superiores, independentemente do terreno.",
+      "b": "Pode permanecer próximo ao solo e se deslocar com o vento, acompanhando os contornos do terreno.",
+      "c": "Permanece imóvel junto ao vazamento, porque gases mais densos não acompanham correntes de ar."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual relaciona a densidade relativa à tendência de dispersão. Gases mais pesados que o ar podem ocupar regiões baixas e se deslocar seguindo o relevo e o vento. Referência: manual, capítulo 1, p. 22 do PDF."
+  },
+  {
+    "id": 127,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "A exigência de concentração adequada com o ar para ocorrer queima se aplica a quais situações descritas no capítulo 1?",
+    "alternativas": {
+      "a": "Gases e vapores, além de névoas de líquidos e certos pós combustíveis em suspensão.",
+      "b": "Somente vapores de líquidos, porque pós e gotículas suspensos queimam em qualquer proporção com o ar.",
+      "c": "Somente gases originalmente armazenados nesse estado, sem se aplicar a vapores de líquidos."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O capítulo estende o comportamento de misturas inflamáveis aos vapores e aos combustíveis sólidos ou líquidos finamente dispersos no ar. A dispersão não elimina a necessidade de concentração adequada. Referência: manual, capítulo 1, p. 23-24 do PDF."
+  },
+  {
+    "id": 128,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Uma mistura de gás combustível com ar está abaixo do LIE. Sem alterar as demais condições, qual mudança de composição pode aproximá-la da faixa inflamável?",
+    "alternativas": {
+      "a": "Acrescentar mais ar, reduzindo ainda mais a proporção de combustível.",
+      "b": "Aumentar a proporção de combustível até atingir o limite inferior da faixa.",
+      "c": "Retirar combustível, porque o LIE representa o excesso máximo de gás permitido."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O LIE é a menor proporção de gás ou vapor no ar capaz de formar mistura inflamável nas condições consideradas. Abaixo dele, a mistura é pobre em combustível. Referência: manual, capítulo 1, p. 23 do PDF."
+  },
+  {
+    "id": 129,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que uma atmosfera enriquecida em oxigênio pode aumentar o risco de incêndio mesmo para materiais resistentes à chama em condições normais?",
+    "alternativas": {
+      "a": "Porque a maior concentração de comburente pode permitir a queima de materiais que não se inflamariam na atmosfera normal.",
+      "b": "Porque o oxigênio adicional passa a funcionar como combustível e substitui a necessidade de qualquer material combustível.",
+      "c": "Porque o enriquecimento reduz a capacidade de reação do comburente e concentra o calor exclusivamente nos materiais já queimados."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual alerta que o aumento da concentração de oxigênio pode alterar o comportamento de materiais, citando o Nomex como exemplo de resistência dependente das condições atmosféricas. Referência: manual, capítulo 1, p. 24-25 do PDF."
+  },
+  {
+    "id": 130,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual associação entre a composição aproximada do ar e o papel do comburente corresponde ao capítulo 1?",
+    "alternativas": {
+      "a": "O oxigênio é o comburente mais comum e corresponde a cerca de 78%, enquanto o nitrogênio representa cerca de 21%.",
+      "b": "O oxigênio, com cerca de 21%, é o comburente mais comum, embora o nitrogênio corresponda a cerca de 78% do ar.",
+      "c": "O nitrogênio, com cerca de 78%, é o comburente mais comum, pois o gás de maior proporção determina a queima."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo apresenta aproximadamente 21% de oxigênio, 78% de nitrogênio e 1% de outros gases. A predominância do nitrogênio não o torna o comburente usual. Referência: manual, capítulo 1, p. 24 do PDF."
+  },
+  {
+    "id": 131,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Segundo o relato do manual, qual observação motivou a inclusão da reação em cadeia na teoria dos elementos da combustão?",
+    "alternativas": {
+      "a": "O oxigênio deixou de participar da combustão em altas temperaturas, sendo substituído integralmente pelo pó químico.",
+      "b": "A eficiência do PQS em altas temperaturas revelou uma interferência química que não era explicada apenas pela ação atribuída ao CO2.",
+      "c": "A água demonstrou ser capaz de retirar fisicamente todo combustível, exigindo um elemento específico para representar o transporte de material."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo relata que os estudos sobre PQS evidenciaram interferência química na combustão, levando à ampliação da teoria e à representação pelo tetraedro. Referência: manual, capítulo 1, p. 25 do PDF."
+  },
+  {
+    "id": 132,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Como os radicais livres são caracterizados na descrição da reação em cadeia do capítulo 1?",
+    "alternativas": {
+      "a": "Como partículas que apenas transportam calor por convecção, sem participação química na combustão.",
+      "b": "Como produtos intermediários instáveis que podem reagir, gerar novos radicais ou formar produtos estáveis.",
+      "c": "Como produtos finais estáveis que já não participam das etapas seguintes da reação."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual descreve intermediários instáveis, especialmente radicais livres, cuja participação mantém as etapas da reação e contribui para a propagação da combustão. Referência: manual, capítulo 1, p. 26 do PDF."
+  },
+  {
+    "id": 133,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual sequência representa os três efeitos observados à medida que um combustível é aquecido, na apresentação do capítulo 1?",
+    "alternativas": {
+      "a": "Queima mantida após retirar a fonte; ignição sem fonte externa; ignição dependente de fonte sem manutenção da chama.",
+      "b": "Ignição sem fonte externa; queima dependente da permanência da fonte; queima mantida após retirar a fonte.",
+      "c": "Ignição dependente de fonte externa sem manutenção da chama; queima mantida após retirar a fonte; ignição dos vapores sem fonte externa de ignição."
+    },
+    "resposta_correta": "c",
+    "explicacao": "Os efeitos correspondem, na ordem didática de aquecimento, ao ponto de fulgor, ao ponto de combustão e ao ponto de ignição ou autoignição. Referência: manual, capítulo 1, p. 27-28 do PDF."
+  },
+  {
+    "id": 134,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um combustível aquecido libera vapores que entram em combustão ao contato com o ar sem uma chama, faísca ou centelha externa. Qual ponto foi atingido na terminologia do manual?",
+    "alternativas": {
+      "a": "Ponto de combustão, definido pela ignição sem qualquer fonte externa.",
+      "b": "Ponto de fulgor, definido pela manutenção da chama sem fonte externa.",
+      "c": "Ponto de ignição, também denominado autoignição ou autoinflamação."
+    },
+    "resposta_correta": "c",
+    "explicacao": "No ponto de ignição, os vapores apresentam energia suficiente para entrar em combustão sem fonte externa de ignição. Fulgor e combustão distinguem situações iniciadas com auxílio externo. Referência: manual, capítulo 1, p. 27-28 do PDF."
+  },
+  {
+    "id": 135,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Todo o material combustível de um cômodo foi atingido pelo fogo. Isso comprova, por si só, combustão completa no sentido químico do manual?",
+    "alternativas": {
+      "a": "Não. Combustão completa significa apenas ausência de brasas, independentemente de como combustível e oxigênio reagiram.",
+      "b": "Não. A queima total indica alcance dos materiais; combustão completa exige reação integral do combustível com o oxigênio, formando produtos estáveis.",
+      "c": "Sim. Todo material atingido pelo fogo necessariamente reagiu por completo, mesmo quando há pouco oxigênio."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo separa a extensão da queima da qualidade química da reação. Um incêndio pode atingir todos os materiais e ainda apresentar combustão incompleta. Referência: manual, capítulo 1, p. 29 do PDF."
+  },
+  {
+    "id": 136,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Na classificação quanto aos produtos, qual condição caracteriza a combustão completa descrita no capítulo 1?",
+    "alternativas": {
+      "a": "As moléculas do combustível reagem completamente com o oxigênio e os produtos resultantes são estáveis.",
+      "b": "A reação deixa intermediários instáveis capazes de continuar reagindo, desde que todo o cômodo tenha sido atingido.",
+      "c": "A reação produz apenas incandescência, pois a presença de chama caracteriza obrigatoriamente combustão incompleta."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A combustão completa, ou ideal, é descrita pela reação integral e pela estabilidade dos produtos. A existência de chama ou a extensão dos danos não substitui esse critério. Referência: manual, capítulo 1, p. 28-29 do PDF."
+  },
+  {
+    "id": 137,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Para que exista combustão viva na classificação do manual, qual condição deve estar presente?",
+    "alternativas": {
+      "a": "Queima exclusiva do corpo sólido em incandescência, sem participação de gases ou vapores.",
+      "b": "Queima de gás ou vapor com chama, mesmo quando esse gás ou vapor provém de um combustível sólido ou líquido.",
+      "c": "Combustão química completa, pois a existência de chama comprova reação integral de todas as moléculas."
+    },
+    "resposta_correta": "b",
+    "explicacao": "A combustão viva é caracterizada pela chama. O manual associa essa apresentação à queima de gás ou vapor, inclusive os liberados por sólidos ou líquidos. Referência: manual, capítulo 1, p. 29 do PDF."
+  },
+  {
+    "id": 138,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que a ferrugem do ferro não é tratada como combustão lenta no exemplo do capítulo 1?",
+    "alternativas": {
+      "a": "Porque toda combustão lenta exige chama visível, enquanto a ferrugem não produz chama.",
+      "b": "Porque é uma reação lenta de oxidação sem liberação significativa de calor suficiente para ser classificada como combustão.",
+      "c": "Porque a oxidação do ferro não envolve participação do oxigênio e é apenas uma mudança de estado físico."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual diferencia a incandescência, que é combustão lenta, da deterioração gradual por oxidação. No exemplo da ferrugem, não há liberação de calor suficiente para enquadrar o processo como combustão. Referência: manual, capítulo 1, p. 30 do PDF."
+  },
+  {
+    "id": 139,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um material está em brasa e recebe aumento do fluxo de ar. Qual alteração pode ocorrer, segundo o capítulo 1?",
+    "alternativas": {
+      "a": "A incandescência é necessariamente extinta, porque a entrada de ar sempre reduz a temperatura abaixo da combustão.",
+      "b": "A queima passa a dispensar combustível, pois a ventilação substitui a reação em cadeia.",
+      "c": "A combustão lenta pode evoluir para combustão viva, com aparecimento de chamas."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O manual compara essa situação ao aumento de ar usado em uma churrasqueira. O fornecimento de ar pode reavivar a queima e favorecer a passagem de brasas a chamas. Referência: manual, capítulo 1, p. 30 do PDF."
+  },
+  {
+    "id": 140,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Por que a parafina pode queimar como chama sem apresentar o mesmo processo de formação de brasas de muitos sólidos orgânicos?",
+    "alternativas": {
+      "a": "Porque queima exclusivamente no estado sólido e não participa de uma fase gasosa.",
+      "b": "Porque se liquefaz e libera vapores que queimam, sendo citada como sólido que apresenta queima em chama.",
+      "c": "Porque sua chama é apenas luz emitida por aquecimento, sem reação de vapores com oxigênio."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo distingue sólidos orgânicos que podem produzir chama e brasa de materiais, como a parafina, que se liquefazem e vaporizam, queimando como chama. Referência: manual, capítulo 1, p. 28 do PDF."
+  },
+  {
+    "id": 141,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Um cilindro de ar se rompe e seu conteúdo se expande rapidamente, sem queima. Qual classificação corresponde ao exemplo do manual?",
+    "alternativas": {
+      "a": "Explosão mecânica, porque a expansão não depende de uma reação de combustão.",
+      "b": "Explosão química, porque toda expansão rápida é necessariamente uma combustão.",
+      "c": "Combustão espontânea, porque a ruptura ocorreu sem chama externa."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O capítulo utiliza o cilindro de ar para mostrar que uma explosão pode ocorrer sem queima. Nas explosões químicas, a expansão está associada a uma reação rápida. Referência: manual, capítulo 1, p. 31 do PDF."
+  },
+  {
+    "id": 142,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual diferença é utilizada pelo manual para distinguir detonação e deflagração?",
+    "alternativas": {
+      "a": "Na detonação, a propagação é subsônica; na deflagração, supera a velocidade do som.",
+      "b": "Na detonação, não há expansão de gases; na deflagração, a diferença depende apenas da cor da chama.",
+      "c": "Na detonação, a propagação descrita supera a velocidade do som; na deflagração, é subsônica."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O capítulo classifica os fenômenos conforme a velocidade de propagação apresentada: supersônica para detonação e subsônica para deflagração. Referência: manual, capítulo 1, p. 32 do PDF."
+  },
+  {
+    "id": 143,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual condição tende a favorecer maior produção de monóxido de carbono nos incêndios, segundo o capítulo 1?",
+    "alternativas": {
+      "a": "Combustão ideal com reação completa do combustível e ampla disponibilidade de oxigênio.",
+      "b": "Combustão mais incompleta, frequente em ambientes pouco ventilados.",
+      "c": "Ausência de qualquer reação de combustão, pois o CO é produzido apenas pela dilatação física do ar."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O manual destaca a presença de CO principalmente em incêndios pouco ventilados e relaciona maior incompletude da combustão à maior produção desse gás. Referência: manual, capítulo 1, p. 34 do PDF."
+  },
+  {
+    "id": 144,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Na explicação do manual, por que perturbar a ponta de uma chama difusa pode produzir fumaça preta?",
+    "alternativas": {
+      "a": "O carbono naquela região pode não completar a queima e ser liberado como fuligem.",
+      "b": "O carbono passa a reagir integralmente, e a combustão completa produz necessariamente fumaça preta.",
+      "c": "A perturbação elimina os vapores combustíveis e escurece apenas o oxigênio que permanece no ar."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O capítulo associa a fumaça preta ao carbono que não queimou. A perturbação da ponta da chama difusa pode aumentar a liberação dessa fuligem. Referência: manual, capítulo 1, p. 32 do PDF."
+  },
+  {
+    "id": 145,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Nos exemplos de maçaricos com fornecimento próprio de comburente, por que a zona de queima não precisa obter todo o oxigênio do ar ao redor?",
+    "alternativas": {
+      "a": "Porque o equipamento já fornece o comburente, misturado ao combustível antes da zona de queima.",
+      "b": "Porque a mistura ocorre apenas depois da zona de queima, usando o oxigênio dos gases já queimados.",
+      "c": "Porque o combustível empregado contém o comburente em sua própria estrutura, sendo desnecessário o fornecimento separado de oxigênio."
+    },
+    "resposta_correta": "a",
+    "explicacao": "A chama de pré-mistura recebe combustível e comburente previamente combinados. O capítulo menciona equipamentos cujo fornecimento de oxigênio dispensa a dependência exclusiva do ar na zona da chama. Referência: manual, capítulo 1, p. 32 do PDF."
+  },
+  {
+    "id": 146,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Em um compartimento sem rota eficiente de escape de fumaça, qual sequência de ocupação do espaço é descrita no capítulo 1?",
+    "alternativas": {
+      "a": "A fumaça permanece exclusivamente acima do foco, sem se espalhar horizontalmente nem aumentar a camada acumulada.",
+      "b": "A fumaça se deposita primeiro no piso e só alcança o teto quando não existe mais ar frio no ambiente.",
+      "c": "A fumaça sobe, espalha-se sob o teto e se acumula até ocupar progressivamente regiões mais baixas."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O confinamento limita a saída dos gases. A acumulação começa na parte superior e pode aumentar até que a fumaça tome o espaço em direção ao piso. Referência: manual, capítulo 1, p. 34 do PDF."
+  },
+  {
+    "id": 147,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "A combustão de um material que contém cloro, como o PVC citado pelo manual, pode originar qual produto?",
+    "alternativas": {
+      "a": "Amônia, NH3.",
+      "b": "Ácido cianídrico, HCN.",
+      "c": "Ácido clorídrico, HCl."
+    },
+    "resposta_correta": "c",
+    "explicacao": "O capítulo relaciona a formação de HCl à combustão de materiais que contêm cloro, citando o PVC. A composição do combustível influencia os gases produzidos. Referência: manual, capítulo 1, p. 36 do PDF."
+  },
+  {
+    "id": 148,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual característica do combustível é associada pelo manual à formação de ácido cianídrico, HCN?",
+    "alternativas": {
+      "a": "A presença de nitrogênio na composição do material, como nos exemplos de nylon e poliuretanos.",
+      "b": "A presença de cloro na composição, sendo o PVC o exemplo usado para esse gás.",
+      "c": "A presença apenas de carbono e hidrogênio, sem necessidade de nitrogênio no material descrito."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O capítulo relaciona o HCN à queima de combustíveis contendo nitrogênio. Para materiais com cloro, apresenta a formação de HCl como outra associação. Referência: manual, capítulo 1, p. 36 do PDF."
+  },
+  {
+    "id": 149,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual conjunto reúne os quatro fatores que, segundo o capítulo 1, influenciam os gases nocivos liberados em um incêndio?",
+    "alternativas": {
+      "a": "Natureza do combustível, calor produzido, temperatura dos gases e concentração de oxigênio.",
+      "b": "Natureza do combustível, calor produzido, temperatura dos gases e umidade relativa, sem considerar a concentração de oxigênio.",
+      "c": "Estado físico inicial, temperatura ambiente, concentração de oxigênio e duração do incêndio, sem considerar a natureza química do combustível."
+    },
+    "resposta_correta": "a",
+    "explicacao": "O manual enumera composição do combustível, calor produzido, temperatura dos gases liberados e concentração de oxigênio como fatores que afetam os produtos nocivos da combustão. Referência: manual, capítulo 1, p. 34 do PDF."
+  },
+  {
+    "id": 150,
+    "tema": "Teoria do fogo",
+    "dificuldade": "moderada",
+    "enunciado": "Qual característica da fumaça ajuda a explicar incêndios que atingem pavimentos não consecutivos de uma edificação?",
+    "alternativas": {
+      "a": "A fumaça transporta calor somente na vertical e não pode alcançar outras áreas por deslocamento em passagens horizontais.",
+      "b": "Sua mobilidade permite transportar calor por dutos, fossos e outras passagens até ambientes afastados do foco.",
+      "c": "A fumaça permanece no pavimento de origem; a propagação para pavimentos não consecutivos exige que todos os intermediários estejam antes em chamas."
+    },
+    "resposta_correta": "b",
+    "explicacao": "O capítulo relaciona a mobilidade da fumaça à propagação por espaços disponíveis, inclusive fossos e dutos. Assim, o transporte de calor não precisa ocorrer apenas entre pavimentos consecutivos. Referência: manual, capítulo 1, p. 33 do PDF."
+  }
+]
