@@ -38,6 +38,8 @@ O quiz atual mantém as respostas somente na memória durante a rodada. Recarreg
 
 ## Leitura no celular
 
+Na preparação, escolha **Quiz** para receber o resultado ao final ou **Estudo** para conferir cada resposta. No modo estudo, selecione uma alternativa e toque em **Confirmar resposta**. O app bloqueia a escolha, informa se houve acerto ou erro e exibe a resposta correta e a explicação em ambos os casos. Toque em **Próxima questão** para continuar; na última, **Ver resultado** mostra a pontuação. O modo estudo também funciona offline após salvar o app.
+
 Durante a rodada, o cabeçalho e o rodapé ficam ocultos. A tela exibe o contador, o enunciado, as alternativas, o botão de avançar e um controle discreto de aparência. No celular, as questões ocupam a largura disponível, sem a moldura do cartão.
 
 O botão **Tema escuro / Tema claro** funciona também durante a rodada, sem perder a resposta selecionada. Na primeira visita, a aparência acompanha a preferência do sistema. A escolha manual é salva neste navegador quando o armazenamento local está disponível.

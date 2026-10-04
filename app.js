@@ -71,7 +71,7 @@ function importarQuestoes(questoes) {
 function inicio() {
   document.body.classList.remove('quiz-active');
   rodada = null;
-  content.innerHTML = `<h2>Prepare sua rodada</h2><p class="notice">${escapeHtml(aviso)}</p>${banco ? '<fieldset class="themes"><legend>Temas</legend><label class="theme-choice"><input id="todos-temas" type="checkbox" checked> Todos os temas</label><div id="temas"></div></fieldset><label for="tipo">Tipo de questão</label><select id="tipo"><option value="abcd">Múltipla escolha</option><option value="vf">Verdadeiro ou falso</option></select><label for="quantidade">Quantidade de questões</label><input id="quantidade" type="number" min="1" value="1" required><p id="disponiveis" class="notice"></p><button id="iniciar">Começar quiz</button>' : '<p>Carregue um banco JSON para começar.</p>'}<label for="arquivo" class="file-button">Carregar banco JSON</label><input id="arquivo" type="file" accept=".json,application/json" hidden><p id="erro" class="error" role="alert"></p>`;
+  content.innerHTML = `<h2>Prepare sua rodada</h2><p class="notice">${escapeHtml(aviso)}</p>${banco ? '<fieldset class="themes"><legend>Temas</legend><label class="theme-choice"><input id="todos-temas" type="checkbox" checked> Todos os temas</label><div id="temas"></div></fieldset><label for="tipo">Tipo de questão</label><select id="tipo"><option value="abcd">Múltipla escolha</option><option value="vf">Verdadeiro ou falso</option></select><label for="modo">Modo</label><select id="modo"><option value="quiz">Quiz — resultado ao final</option><option value="estudo">Estudo — comentário após cada resposta</option></select><label for="quantidade">Quantidade de questões</label><input id="quantidade" type="number" min="1" value="1" required><p id="disponiveis" class="notice"></p><button id="iniciar">Começar quiz</button>' : '<p>Carregue um banco JSON para começar.</p>'}<label for="arquivo" class="file-button">Carregar banco JSON</label><input id="arquivo" type="file" accept=".json,application/json" hidden><p id="erro" class="error" role="alert"></p>`;
   document.querySelector('#arquivo').addEventListener('change', async event => {
     const file = event.target.files[0];
     if (!file) return;
@@ -105,7 +105,7 @@ function inicio() {
     if (!input.reportValidity()) return;
     const questoes = [...selecionadas()];
     for (let i = questoes.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [questoes[i], questoes[j]] = [questoes[j], questoes[i]]; }
-    rodada = {questoes: questoes.slice(0, Number(input.value)), respostas: [], indice: 0};
+    rodada = {questoes: questoes.slice(0, Number(input.value)), respostas: [], indice: 0, modo: document.querySelector('#modo').value};
     pergunta();
   });
   atualizar();
@@ -123,15 +123,42 @@ function pergunta() {
   const q = rodada.questoes[rodada.indice];
   content.innerHTML = `<div class="meta"><span>Questão ${rodada.indice + 1} de ${rodada.questoes.length}</span><span>${q.tipo === 'vf' ? 'Verdadeiro / falso' : 'Múltipla escolha'}</span></div><progress value="${rodada.indice}" max="${rodada.questoes.length}" aria-label="Questões respondidas"></progress><h2 tabindex="-1">${escapeHtml(q.enunciado)}</h2><div role="group" aria-label="Alternativas">${opcoes(q).map((a,i) => `<button class="option" data-index="${i}" aria-pressed="false">${q.tipo === 'abcd' ? 'ABCD'[i] + ') ' : ''}${escapeHtml(a)}</button>`).join('')}</div><button id="proxima" disabled>${rodada.indice === rodada.questoes.length - 1 ? 'Ver resultado' : 'Próxima questão'}</button>`;
   let escolhida;
+  let confirmada = false;
+  const proxima = document.querySelector('#proxima');
+  const textoAvancar = proxima.textContent;
+  if (rodada.modo === 'estudo') proxima.textContent = 'Confirmar resposta';
   content.querySelector('.meta span:last-child').remove();
   content.querySelector('progress').remove();
   content.querySelectorAll('.option').forEach(button => button.addEventListener('click', () => {
+    if (confirmada) return;
     escolhida = valor(q, Number(button.dataset.index));
     content.querySelectorAll('.option').forEach(b => b.setAttribute('aria-pressed', String(b === button)));
     document.querySelector('#proxima').disabled = false;
   }));
   document.querySelector('#proxima').addEventListener('click', () => {
-    rodada.respostas.push(escolhida);
+    if (escolhida === undefined) return;
+    if (!confirmada) {
+      confirmada = true;
+      rodada.respostas.push(escolhida);
+      if (rodada.modo === 'estudo') {
+        const acertou = escolhida === q.resposta;
+        content.querySelectorAll('.option').forEach(button => {
+          button.disabled = true;
+          const resposta = valor(q, Number(button.dataset.index));
+          if (resposta === q.resposta) button.classList.add('correct-answer');
+          else if (resposta === escolhida) button.classList.add('wrong-answer');
+        });
+        const comentario = document.createElement('section');
+        comentario.className = `feedback ${acertou ? 'feedback-correct' : 'feedback-wrong'}`;
+        comentario.setAttribute('aria-label', 'Comentário da resposta');
+        comentario.setAttribute('tabindex', '-1');
+        comentario.innerHTML = `<h3>${acertou ? 'Você acertou!' : 'Você errou.'}</h3><p><strong>Resposta correta: ${escapeHtml(respostaTexto(q, q.resposta))}</strong></p><p>${escapeHtml(q.explicacao)}</p>`;
+        proxima.before(comentario);
+        proxima.textContent = textoAvancar;
+        comentario.focus();
+        return;
+      }
+    }
     rodada.indice++;
     if (rodada.indice < rodada.questoes.length) pergunta(); else resultado();
   });
@@ -183,4 +210,5 @@ async function prepararOffline() {
   }
 }
 prepararOffline();
+
 

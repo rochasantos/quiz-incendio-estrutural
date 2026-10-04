@@ -1,6 +1,6 @@
 // Altere a versão quando publicar mudanças no app ou no banco de questões.
 const CACHE_PREFIX = 'quiz-incendio-offline-';
-const CACHE_NAME = `${CACHE_PREFIX}v1`;
+const CACHE_NAME = `${CACHE_PREFIX}v2`;
 const FILES = [
   './', './index.html', './style.css', './app.js',
   './questoes_incendio_urbano_cbmes_100.json', './questoes.json'
